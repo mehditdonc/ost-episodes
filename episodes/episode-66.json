@@ -1,0 +1,670 @@
+{
+  "format": "ost-recorder/1",
+  "channel": "mehditdonc",
+  "episode": 66,
+  "streamTitle": "Découverte Zenkai ! | EPISODE 66 ZENKAI RP !rediff !discord !linktree !sub !rp #noreact",
+  "streamStartedAt": "2026-10-31T15:05:43.815Z",
+  "exportedAt": "2026-10-31T17:50:14.102Z",
+  "events": [
+    {
+      "at": "0:02:54",
+      "muted": false,
+      "t": 174679,
+      "title": "Money (feat. Faouzia)",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 178.6,
+      "volume": 42
+    },
+    {
+      "at": "0:03:08",
+      "muted": false,
+      "t": 188169,
+      "title": "Money (feat. Faouzia)",
+      "type": "pause",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 192,
+      "volume": 29
+    },
+    {
+      "at": "0:03:08",
+      "muted": false,
+      "t": 188169,
+      "title": "Money (feat. Faouzia)",
+      "type": "ended",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 192,
+      "volume": 29
+    },
+    {
+      "at": "0:03:08",
+      "muted": false,
+      "t": 188260,
+      "title": "Money (feat. Faouzia)",
+      "type": "play",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 0,
+      "volume": 36
+    },
+    {
+      "at": "0:03:10",
+      "muted": false,
+      "t": 190436,
+      "title": "10 12 14 bureau",
+      "type": "track",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 2.1,
+      "volume": 36
+    },
+    {
+      "at": "0:05:01",
+      "muted": false,
+      "t": 301148,
+      "title": "10 12 14 bureau",
+      "type": "volume",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 112.8,
+      "volume": 12
+    },
+    {
+      "at": "0:05:10",
+      "muted": false,
+      "t": 310147,
+      "title": "10 12 14 bureau",
+      "type": "volume",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 121.8,
+      "volume": 3
+    },
+    {
+      "at": "0:05:29",
+      "muted": false,
+      "t": 329965,
+      "title": "10 12 14 bureau",
+      "type": "volume",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 141.6,
+      "volume": 2
+    },
+    {
+      "at": "0:05:31",
+      "muted": true,
+      "t": 331308,
+      "title": "10 12 14 bureau",
+      "type": "volume",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 143,
+      "volume": 1
+    },
+    {
+      "at": "0:05:43",
+      "muted": true,
+      "t": 343714,
+      "title": "10 12 14 bureau",
+      "type": "play",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 0,
+      "volume": 0
+    },
+    {
+      "at": "0:05:43",
+      "muted": true,
+      "t": 343749,
+      "title": "10 12 14 bureau",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 0,
+      "volume": 0
+    },
+    {
+      "at": "0:05:45",
+      "muted": true,
+      "t": 345434,
+      "title": "Money (feat. Faouzia)",
+      "type": "track",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 1.6,
+      "volume": 0
+    },
+    {
+      "at": "0:05:45",
+      "muted": false,
+      "t": 345967,
+      "title": "Money (feat. Faouzia)",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 2.2,
+      "volume": 12
+    },
+    {
+      "at": "0:06:28",
+      "muted": false,
+      "t": 388103,
+      "title": "Money (feat. Faouzia)",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 44.3,
+      "volume": 4
+    },
+    {
+      "at": "0:06:29",
+      "muted": false,
+      "t": 389535,
+      "title": "Money (feat. Faouzia)",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 45.7,
+      "volume": 1
+    },
+    {
+      "at": "0:07:43",
+      "muted": false,
+      "t": 463826,
+      "title": "Money (feat. Faouzia)",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 120,
+      "volume": 1
+    },
+    {
+      "at": "0:08:56",
+      "muted": false,
+      "t": 536343,
+      "title": "Money (feat. Faouzia)",
+      "type": "pause",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 192,
+      "volume": 1
+    },
+    {
+      "at": "0:08:56",
+      "muted": false,
+      "t": 536343,
+      "title": "Money (feat. Faouzia)",
+      "type": "ended",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 192,
+      "volume": 1
+    },
+    {
+      "at": "0:08:56",
+      "muted": false,
+      "t": 536433,
+      "title": "Money (feat. Faouzia)",
+      "type": "play",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:08:57",
+      "muted": false,
+      "t": 537972,
+      "title": "10 12 14 bureau",
+      "type": "track",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 1.4,
+      "volume": 2
+    },
+    {
+      "at": "0:09:38",
+      "muted": false,
+      "t": 578706,
+      "title": "10 12 14 bureau",
+      "type": "pause",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 42.1,
+      "volume": 2
+    },
+    {
+      "at": "0:25:43",
+      "muted": false,
+      "t": 1543577,
+      "title": "10 12 14 bureau",
+      "type": "play",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:25:45",
+      "muted": false,
+      "t": 1545092,
+      "title": "attack音D",
+      "type": "track",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 1.4,
+      "volume": 3
+    },
+    {
+      "at": "0:26:51",
+      "muted": false,
+      "t": 1611977,
+      "title": "attack音D",
+      "type": "pause",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 68.2,
+      "volume": 3
+    },
+    {
+      "at": "0:27:16",
+      "muted": false,
+      "t": 1636096,
+      "title": "attack音D",
+      "type": "play",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 68.2,
+      "volume": 3
+    },
+    {
+      "at": "0:30:52",
+      "muted": false,
+      "t": 1852321,
+      "title": "attack音D",
+      "type": "pause",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 284.3,
+      "volume": 3
+    },
+    {
+      "at": "0:30:52",
+      "muted": false,
+      "t": 1852321,
+      "title": "attack音D",
+      "type": "ended",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 284.3,
+      "volume": 3
+    },
+    {
+      "at": "0:30:52",
+      "muted": false,
+      "t": 1852404,
+      "title": "attack音D",
+      "type": "play",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:30:54",
+      "muted": false,
+      "t": 1854015,
+      "title": "Vogel im Käfig",
+      "type": "track",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 1.5,
+      "volume": 3
+    },
+    {
+      "at": "0:37:12",
+      "muted": false,
+      "t": 2232578,
+      "title": "Vogel im Käfig",
+      "type": "pause",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 380.1,
+      "volume": 3
+    },
+    {
+      "at": "0:37:12",
+      "muted": false,
+      "t": 2232578,
+      "title": "Vogel im Käfig",
+      "type": "ended",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 380.1,
+      "volume": 3
+    },
+    {
+      "at": "0:37:12",
+      "muted": false,
+      "t": 2232690,
+      "title": "Vogel im Käfig",
+      "type": "play",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:37:15",
+      "muted": false,
+      "t": 2235033,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 2.2,
+      "volume": 2
+    },
+    {
+      "at": "0:41:26",
+      "muted": false,
+      "t": 2486602,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "pause",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 2
+    },
+    {
+      "at": "0:41:26",
+      "muted": false,
+      "t": 2486602,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "ended",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 2
+    },
+    {
+      "at": "0:41:26",
+      "muted": false,
+      "t": 2486709,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "3jf_Z68c4LQ",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:41:29",
+      "muted": false,
+      "t": 2489375,
+      "title": "My Hero Academia OST - Might+U",
+      "type": "track",
+      "videoId": "3jf_Z68c4LQ",
+      "videoTime": 2.6,
+      "volume": 2
+    },
+    {
+      "at": "0:43:23",
+      "muted": false,
+      "t": 2603840,
+      "title": "My Hero Academia OST - Might+U",
+      "type": "play",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:43:24",
+      "muted": false,
+      "t": 2604106,
+      "title": "My Hero Academia OST - Might+U",
+      "type": "seeked",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 9,
+      "volume": 3
+    },
+    {
+      "at": "0:43:26",
+      "muted": false,
+      "t": 2606201,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "track",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 11,
+      "volume": 3
+    },
+    {
+      "at": "0:43:30",
+      "muted": false,
+      "t": 2610073,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "volume",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 14.9,
+      "volume": 7
+    },
+    {
+      "at": "0:45:18",
+      "muted": false,
+      "t": 2718649,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "play",
+      "videoId": "wo2Fb_lZZ-8",
+      "videoTime": 0,
+      "volume": 15
+    },
+    {
+      "at": "0:45:20",
+      "muted": false,
+      "t": 2720033,
+      "title": "Why am I so weak?",
+      "type": "track",
+      "videoId": "wo2Fb_lZZ-8",
+      "videoTime": 1.3,
+      "volume": 15
+    },
+    {
+      "at": "0:46:00",
+      "muted": false,
+      "t": 2760631,
+      "title": "Why am I so weak?",
+      "type": "play",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 0,
+      "volume": 15
+    },
+    {
+      "at": "0:46:00",
+      "muted": false,
+      "t": 2760759,
+      "title": "Why am I so weak?",
+      "type": "seeked",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 2002,
+      "volume": 15
+    },
+    {
+      "at": "0:46:02",
+      "muted": false,
+      "t": 2762032,
+      "title": "I only have one goal...",
+      "type": "track",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 2003.2,
+      "volume": 15
+    },
+    {
+      "at": "0:46:03",
+      "muted": false,
+      "t": 2763385,
+      "title": "I only have one goal...",
+      "type": "pause",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 2004.6,
+      "volume": 15
+    },
+    {
+      "at": "0:46:03",
+      "muted": false,
+      "t": 2763880,
+      "title": "I only have one goal...",
+      "type": "play",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 0,
+      "volume": 15
+    },
+    {
+      "at": "0:46:06",
+      "muted": false,
+      "t": 2766034,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "track",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 2,
+      "volume": 15
+    },
+    {
+      "at": "0:48:30",
+      "muted": false,
+      "t": 2910283,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 146.2,
+      "volume": 19
+    },
+    {
+      "at": "0:59:10",
+      "muted": false,
+      "t": 3550307,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 786.3,
+      "volume": 5
+    },
+    {
+      "at": "1:04:18",
+      "muted": false,
+      "t": 3858316,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "pause",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 5
+    },
+    {
+      "at": "1:04:18",
+      "muted": false,
+      "t": 3858317,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "ended",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 5
+    },
+    {
+      "at": "2:26:16",
+      "muted": false,
+      "t": 8776215,
+      "title": "YouTube",
+      "type": "play",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "2:26:18",
+      "muted": false,
+      "t": 8778323,
+      "title": "TRAKELLA (Slowed)",
+      "type": "track",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 2,
+      "volume": 2
+    },
+    {
+      "at": "2:26:18",
+      "muted": false,
+      "t": 8778450,
+      "title": "TRAKELLA (Slowed)",
+      "type": "pause",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 2.1,
+      "volume": 2
+    },
+    {
+      "at": "2:26:18",
+      "muted": false,
+      "t": 8778578,
+      "title": "TRAKELLA (Slowed)",
+      "type": "play",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "2:26:18",
+      "muted": false,
+      "t": 8778580,
+      "title": "TRAKELLA (Slowed)",
+      "type": "seeked",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "2:26:19",
+      "muted": false,
+      "t": 8779077,
+      "title": "TRAKELLA (Slowed)",
+      "type": "pause",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0.4,
+      "volume": 2
+    },
+    {
+      "at": "2:26:19",
+      "muted": false,
+      "t": 8779971,
+      "title": "TRAKELLA (Slowed)",
+      "type": "seeked",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0.1,
+      "volume": 2
+    },
+    {
+      "at": "2:26:32",
+      "muted": false,
+      "t": 8792062,
+      "title": "TRAKELLA (Slowed)",
+      "type": "play",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0.1,
+      "volume": 2
+    },
+    {
+      "at": "2:26:34",
+      "muted": false,
+      "t": 8794041,
+      "title": "TRAKELLA (Slowed)",
+      "type": "volume",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 2,
+      "volume": 13
+    },
+    {
+      "at": "2:26:37",
+      "muted": false,
+      "t": 8797001,
+      "title": "TRAKELLA (Slowed)",
+      "type": "volume",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 5,
+      "volume": 8
+    },
+    {
+      "at": "2:28:14",
+      "muted": false,
+      "t": 8894775,
+      "title": "TRAKELLA (Slowed)",
+      "type": "volume",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 102.8,
+      "volume": 3
+    },
+    {
+      "at": "2:28:35",
+      "muted": false,
+      "t": 8915096,
+      "title": "TRAKELLA (Slowed)",
+      "type": "pause",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 123.1,
+      "volume": 3
+    },
+    {
+      "at": "2:28:35",
+      "muted": false,
+      "t": 8915096,
+      "title": "TRAKELLA (Slowed)",
+      "type": "ended",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 123.1,
+      "volume": 3
+    }
+  ]
+}

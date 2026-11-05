@@ -1,0 +1,930 @@
+{
+  "format": "ost-recorder/1",
+  "channel": "mehditdonc",
+  "episode": 67,
+  "streamTitle": "RYUJI EST LA MGL ! | Épisode 67 Zenkai RP !rediff !discord !linktree !sub !rp #noreact",
+  "streamStartedAt": "2026-11-05T19:29:31.538Z",
+  "exportedAt": "2026-11-05T23:56:32.283Z",
+  "events": [
+    {
+      "at": "0:06:13",
+      "muted": false,
+      "t": 373170,
+      "title": "YouTube",
+      "type": "play",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 0,
+      "volume": 22
+    },
+    {
+      "at": "0:06:14",
+      "muted": false,
+      "t": 374180,
+      "title": "YouTube",
+      "type": "volume",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 0.9,
+      "volume": 17
+    },
+    {
+      "at": "0:06:15",
+      "muted": true,
+      "t": 375205,
+      "title": "YouTube",
+      "type": "track",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 1.9,
+      "volume": 22
+    },
+    {
+      "at": "0:06:16",
+      "muted": false,
+      "t": 376995,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "volume",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 3.7,
+      "volume": 2
+    },
+    {
+      "at": "0:06:37",
+      "muted": false,
+      "t": 397280,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "volume",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 24,
+      "volume": 5
+    },
+    {
+      "at": "0:07:20",
+      "muted": false,
+      "t": 440121,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "volume",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 65,
+      "volume": 0
+    },
+    {
+      "at": "0:11:03",
+      "muted": false,
+      "t": 663114,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "pause",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 287.4,
+      "volume": 1
+    },
+    {
+      "at": "0:11:03",
+      "muted": false,
+      "t": 663114,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "ended",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 287.4,
+      "volume": 1
+    },
+    {
+      "at": "0:11:03",
+      "muted": false,
+      "t": 663296,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "play",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 0,
+      "volume": 0
+    },
+    {
+      "at": "0:11:04",
+      "muted": false,
+      "t": 664762,
+      "title": "TRAKELLA (Slowed)",
+      "type": "track",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 1.3,
+      "volume": 0
+    },
+    {
+      "at": "0:11:48",
+      "muted": false,
+      "t": 708477,
+      "title": "TRAKELLA (Slowed)",
+      "type": "pause",
+      "videoId": "sFTlIJVFmYI",
+      "videoTime": 45,
+      "volume": 0
+    },
+    {
+      "at": "0:11:52",
+      "muted": false,
+      "t": 712966,
+      "title": "TRAKELLA (Slowed)",
+      "type": "play",
+      "videoId": "BqGBHS9uOLs",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "0:11:54",
+      "muted": false,
+      "t": 714631,
+      "title": "Samy Lrzo x Gambino La MG @gambino_lamg - Pilon (Clip Officiel)",
+      "type": "track",
+      "videoId": "BqGBHS9uOLs",
+      "videoTime": 1.5,
+      "volume": 1
+    },
+    {
+      "at": "0:12:22",
+      "muted": false,
+      "t": 742973,
+      "title": "Samy Lrzo x Gambino La MG @gambino_lamg - Pilon (Clip Officiel)",
+      "type": "pause",
+      "videoId": "BqGBHS9uOLs",
+      "videoTime": 29.9,
+      "volume": 1
+    },
+    {
+      "at": "0:52:18",
+      "muted": false,
+      "t": 3138006,
+      "title": "Samy Lrzo x Gambino La MG @gambino_lamg - Pilon (Clip Officiel)",
+      "type": "play",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 0,
+      "volume": 0
+    },
+    {
+      "at": "0:52:18",
+      "muted": false,
+      "t": 3138093,
+      "title": "Samy Lrzo x Gambino La MG @gambino_lamg - Pilon (Clip Officiel)",
+      "type": "volume",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 0,
+      "volume": 0
+    },
+    {
+      "at": "0:52:20",
+      "muted": false,
+      "t": 3140111,
+      "title": "Money (feat. Faouzia)",
+      "type": "track",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 1.9,
+      "volume": 0
+    },
+    {
+      "at": "0:54:46",
+      "muted": false,
+      "t": 3286000,
+      "title": "Money (feat. Faouzia)",
+      "type": "pause",
+      "videoId": "YPnf913z9wY",
+      "videoTime": 147.8,
+      "volume": 0
+    },
+    {
+      "at": "1:36:36",
+      "muted": false,
+      "t": 5796200,
+      "title": "Money (feat. Faouzia)",
+      "type": "play",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "1:36:38",
+      "muted": false,
+      "t": 5798056,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "track",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 1.7,
+      "volume": 1
+    },
+    {
+      "at": "1:37:37",
+      "muted": false,
+      "t": 5857524,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "pause",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 61.2,
+      "volume": 1
+    },
+    {
+      "at": "1:38:01",
+      "muted": false,
+      "t": 5881977,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "play",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 61.2,
+      "volume": 1
+    },
+    {
+      "at": "1:38:04",
+      "muted": false,
+      "t": 5884569,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "volume",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 63.7,
+      "volume": 17
+    },
+    {
+      "at": "1:38:05",
+      "muted": false,
+      "t": 5885598,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "volume",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 64.7,
+      "volume": 7
+    },
+    {
+      "at": "1:38:06",
+      "muted": false,
+      "t": 5886751,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "volume",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 65.9,
+      "volume": 3
+    },
+    {
+      "at": "1:39:08",
+      "muted": false,
+      "t": 5948840,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "pause",
+      "videoId": "UZ-v26omZBw",
+      "videoTime": 128,
+      "volume": 3
+    },
+    {
+      "at": "1:44:00",
+      "muted": false,
+      "t": 6240045,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "play",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "1:44:00",
+      "muted": false,
+      "t": 6240218,
+      "title": "HunterxHunter (1999) | Kuroro Lucifer/Phantom troupe theme (Extended)",
+      "type": "seeked",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2353,
+      "volume": 3
+    },
+    {
+      "at": "1:44:02",
+      "muted": false,
+      "t": 6242056,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "track",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2354.8,
+      "volume": 3
+    },
+    {
+      "at": "1:46:40",
+      "muted": false,
+      "t": 6400011,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "pause",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2512.8,
+      "volume": 3
+    },
+    {
+      "at": "1:49:21",
+      "muted": false,
+      "t": 6561325,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "volume",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2512.8,
+      "volume": 11
+    },
+    {
+      "at": "1:49:22",
+      "muted": false,
+      "t": 6562833,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "volume",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2512.8,
+      "volume": 3
+    },
+    {
+      "at": "1:49:24",
+      "muted": false,
+      "t": 6564059,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "play",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2512.8,
+      "volume": 7
+    },
+    {
+      "at": "1:50:09",
+      "muted": false,
+      "t": 6609543,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "pause",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2558.1,
+      "volume": 7
+    },
+    {
+      "at": "2:05:51",
+      "muted": false,
+      "t": 7551717,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "play",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "2:05:53",
+      "muted": false,
+      "t": 7553665,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "track",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1.8,
+      "volume": 7
+    },
+    {
+      "at": "2:06:06",
+      "muted": false,
+      "t": 7566598,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 14.7,
+      "volume": 9
+    },
+    {
+      "at": "2:08:20",
+      "muted": false,
+      "t": 7700321,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 148.5,
+      "volume": 1
+    },
+    {
+      "at": "2:08:21",
+      "muted": false,
+      "t": 7701439,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 149.6,
+      "volume": 1
+    },
+    {
+      "at": "2:24:06",
+      "muted": false,
+      "t": 8646097,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "pause",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 1
+    },
+    {
+      "at": "2:24:06",
+      "muted": false,
+      "t": 8646097,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "ended",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 1
+    },
+    {
+      "at": "3:09:12",
+      "muted": false,
+      "t": 11352606,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "play",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "3:09:12",
+      "muted": false,
+      "t": 11352770,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "seeked",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 1243,
+      "volume": 1
+    },
+    {
+      "at": "3:09:14",
+      "muted": false,
+      "t": 11354140,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "track",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 1244.3,
+      "volume": 1
+    },
+    {
+      "at": "3:09:26",
+      "muted": false,
+      "t": 11366883,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "play",
+      "videoId": "V88THoojXl0",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "3:09:29",
+      "muted": false,
+      "t": 11369217,
+      "title": "Melodie De Tapion Original",
+      "type": "track",
+      "videoId": "V88THoojXl0",
+      "videoTime": 2.2,
+      "volume": 1
+    },
+    {
+      "at": "3:13:18",
+      "muted": false,
+      "t": 11598930,
+      "title": "Melodie De Tapion Original",
+      "type": "pause",
+      "videoId": "V88THoojXl0",
+      "videoTime": 231.9,
+      "volume": 1
+    },
+    {
+      "at": "3:13:18",
+      "muted": false,
+      "t": 11598930,
+      "title": "Melodie De Tapion Original",
+      "type": "ended",
+      "videoId": "V88THoojXl0",
+      "videoTime": 231.9,
+      "volume": 1
+    },
+    {
+      "at": "3:13:19",
+      "muted": false,
+      "t": 11599082,
+      "title": "Melodie De Tapion Original",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "3:13:21",
+      "muted": false,
+      "t": 11601115,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "track",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 1.9,
+      "volume": 1
+    },
+    {
+      "at": "3:13:24",
+      "muted": false,
+      "t": 11604413,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "pause",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 5.2,
+      "volume": 1
+    },
+    {
+      "at": "3:13:25",
+      "muted": false,
+      "t": 11605357,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 5.3,
+      "volume": 1
+    },
+    {
+      "at": "3:13:26",
+      "muted": false,
+      "t": 11606489,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "volume",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 6.4,
+      "volume": 11
+    },
+    {
+      "at": "3:17:44",
+      "muted": false,
+      "t": 11864780,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "pause",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 13
+    },
+    {
+      "at": "3:17:44",
+      "muted": false,
+      "t": 11864780,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "ended",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 13
+    },
+    {
+      "at": "3:17:44",
+      "muted": false,
+      "t": 11864915,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "3:17:47",
+      "muted": false,
+      "t": 11867116,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "track",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 2.1,
+      "volume": 13
+    },
+    {
+      "at": "3:20:23",
+      "muted": false,
+      "t": 12023432,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 158.5,
+      "volume": 11
+    },
+    {
+      "at": "3:20:25",
+      "muted": false,
+      "t": 12025625,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 160.6,
+      "volume": 7
+    },
+    {
+      "at": "3:21:12",
+      "muted": false,
+      "t": 12072561,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 207.6,
+      "volume": 5
+    },
+    {
+      "at": "3:21:12",
+      "muted": false,
+      "t": 12072561,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "ended",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 207.6,
+      "volume": 5
+    },
+    {
+      "at": "3:21:12",
+      "muted": false,
+      "t": 12072681,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:21:14",
+      "muted": false,
+      "t": 12074263,
+      "title": "Early Summer Rain",
+      "type": "track",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 1.4,
+      "volume": 5
+    },
+    {
+      "at": "3:22:03",
+      "muted": false,
+      "t": 12123894,
+      "title": "Early Summer Rain",
+      "type": "volume",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 51,
+      "volume": 11
+    },
+    {
+      "at": "3:24:40",
+      "muted": false,
+      "t": 12280599,
+      "title": "Early Summer Rain",
+      "type": "pause",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 207.6,
+      "volume": 1
+    },
+    {
+      "at": "3:24:40",
+      "muted": false,
+      "t": 12280600,
+      "title": "Early Summer Rain",
+      "type": "ended",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 207.6,
+      "volume": 1
+    },
+    {
+      "at": "3:24:40",
+      "muted": false,
+      "t": 12280697,
+      "title": "Early Summer Rain",
+      "type": "play",
+      "videoId": "xPNxWAqiCGs",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "3:24:42",
+      "muted": false,
+      "t": 12282189,
+      "title": "Loneliness - Naruto (slowed + reverb)",
+      "type": "track",
+      "videoId": "xPNxWAqiCGs",
+      "videoTime": 1.4,
+      "volume": 1
+    },
+    {
+      "at": "3:26:58",
+      "muted": false,
+      "t": 12418028,
+      "title": "Loneliness - Naruto (slowed + reverb)",
+      "type": "pause",
+      "videoId": "xPNxWAqiCGs",
+      "videoTime": 137,
+      "volume": 1
+    },
+    {
+      "at": "3:26:58",
+      "muted": false,
+      "t": 12418028,
+      "title": "Loneliness - Naruto (slowed + reverb)",
+      "type": "ended",
+      "videoId": "xPNxWAqiCGs",
+      "videoTime": 137,
+      "volume": 1
+    },
+    {
+      "at": "3:26:58",
+      "muted": false,
+      "t": 12418124,
+      "title": "Loneliness - Naruto (slowed + reverb)",
+      "type": "play",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "3:27:00",
+      "muted": false,
+      "t": 12420115,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "track",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 1.9,
+      "volume": 1
+    },
+    {
+      "at": "3:27:21",
+      "muted": false,
+      "t": 12441140,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "volume",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 22.9,
+      "volume": 25
+    },
+    {
+      "at": "3:29:26",
+      "muted": false,
+      "t": 12566234,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "pause",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 148,
+      "volume": 9
+    },
+    {
+      "at": "3:30:06",
+      "muted": false,
+      "t": 12606922,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "play",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 148,
+      "volume": 9
+    },
+    {
+      "at": "3:30:53",
+      "muted": false,
+      "t": 12653198,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "volume",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 194.2,
+      "volume": 5
+    },
+    {
+      "at": "3:30:59",
+      "muted": false,
+      "t": 12659141,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "pause",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 200.1,
+      "volume": 5
+    },
+    {
+      "at": "3:30:59",
+      "muted": false,
+      "t": 12659141,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "ended",
+      "videoId": "Pq3NzyDAEww",
+      "videoTime": 200.1,
+      "volume": 5
+    },
+    {
+      "at": "3:30:59",
+      "muted": false,
+      "t": 12659247,
+      "title": "Dragon Ball Z OST - Vegeta's Sacrifice",
+      "type": "play",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:31:01",
+      "muted": false,
+      "t": 12661115,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "track",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 1.8,
+      "volume": 2
+    },
+    {
+      "at": "3:31:02",
+      "muted": false,
+      "t": 12662732,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "volume",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 3.4,
+      "volume": 0
+    },
+    {
+      "at": "3:33:53",
+      "muted": false,
+      "t": 12833014,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "pause",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 173.6,
+      "volume": 0
+    },
+    {
+      "at": "4:20:14",
+      "muted": false,
+      "t": 15614617,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "play",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 173.6,
+      "volume": 0
+    },
+    {
+      "at": "4:20:16",
+      "muted": false,
+      "t": 15616127,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "pause",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 175.1,
+      "volume": 0
+    },
+    {
+      "at": "4:20:16",
+      "muted": false,
+      "t": 15616233,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "play",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 2.9,
+      "volume": 0
+    },
+    {
+      "at": "4:20:16",
+      "muted": false,
+      "t": 15616247,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "seeked",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 2.9,
+      "volume": 0
+    },
+    {
+      "at": "4:20:16",
+      "muted": false,
+      "t": 15616996,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "volume",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 3.5,
+      "volume": 5
+    },
+    {
+      "at": "4:23:09",
+      "muted": true,
+      "t": 15789382,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "volume",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 176,
+      "volume": 1
+    },
+    {
+      "at": "4:23:58",
+      "muted": true,
+      "t": 15838345,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "pause",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 224.5,
+      "volume": 1
+    },
+    {
+      "at": "4:23:58",
+      "muted": true,
+      "t": 15838345,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "ended",
+      "videoId": "LQ7Cd2Uqtq4",
+      "videoTime": 224.5,
+      "volume": 1
+    },
+    {
+      "at": "4:23:58",
+      "muted": true,
+      "t": 15838484,
+      "title": "Tapion's theme | EPIC VERSION (Dragon Ball Z)",
+      "type": "play",
+      "videoId": "hrfM0GjRC9A",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "4:24:01",
+      "muted": true,
+      "t": 15841052,
+      "title": "yamagasumi and samidare (The 3 Uchiha)",
+      "type": "track",
+      "videoId": "hrfM0GjRC9A",
+      "videoTime": 2.4,
+      "volume": 3
+    }
+  ]
+}

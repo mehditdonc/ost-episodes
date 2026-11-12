@@ -1,0 +1,2640 @@
+{
+  "format": "ost-recorder/1",
+  "channel": "mehditdonc",
+  "episode": 71,
+  "streamTitle": "LA FIN DE RYUJI UCHIHA OU BIEN LE COMMENCEMENT ? | ÉPISODE 71 ZENKAII RP",
+  "streamStartedAt": "2026-11-11T20:05:50.485Z",
+  "exportedAt": "2026-11-12T02:24:37.537Z",
+  "events": [
+    {
+      "at": "0:04:13",
+      "muted": false,
+      "t": 253777,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 55
+    },
+    {
+      "at": "0:06:16",
+      "muted": false,
+      "t": 376815,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 122.7,
+      "volume": 22
+    },
+    {
+      "at": "0:08:29",
+      "muted": false,
+      "t": 509339,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 19
+    },
+    {
+      "at": "0:12:24",
+      "muted": false,
+      "t": 744987,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 235.6,
+      "volume": 13
+    },
+    {
+      "at": "0:12:44",
+      "muted": false,
+      "t": 764554,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "0:15:09",
+      "muted": false,
+      "t": 909855,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 145.3,
+      "volume": 12
+    },
+    {
+      "at": "0:16:59",
+      "muted": false,
+      "t": 1019763,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 10
+    },
+    {
+      "at": "0:21:14",
+      "muted": false,
+      "t": 1274976,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 10
+    },
+    {
+      "at": "0:23:15",
+      "muted": false,
+      "t": 1395549,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 120.5,
+      "volume": 8
+    },
+    {
+      "at": "0:25:30",
+      "muted": false,
+      "t": 1530194,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "0:29:45",
+      "muted": false,
+      "t": 1785403,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "0:32:06",
+      "muted": false,
+      "t": 1926439,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 141,
+      "volume": 6
+    },
+    {
+      "at": "0:32:32",
+      "muted": false,
+      "t": 1952521,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "play",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "0:32:35",
+      "muted": false,
+      "t": 1955027,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "track",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "0:32:47",
+      "muted": false,
+      "t": 1967545,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "play",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "0:32:48",
+      "muted": false,
+      "t": 1968636,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "volume",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 0.9,
+      "volume": 13
+    },
+    {
+      "at": "0:32:49",
+      "muted": false,
+      "t": 1969468,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "track",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 1.7,
+      "volume": 19
+    },
+    {
+      "at": "0:34:28",
+      "muted": false,
+      "t": 2068339,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "volume",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 100.6,
+      "volume": 13
+    },
+    {
+      "at": "0:34:40",
+      "muted": false,
+      "t": 2080530,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "pause",
+      "videoId": "pucT5R6AV5o",
+      "videoTime": 112.8,
+      "volume": 7
+    },
+    {
+      "at": "0:34:50",
+      "muted": false,
+      "t": 2090704,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "play",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "0:34:50",
+      "muted": false,
+      "t": 2090810,
+      "title": "Hunter x Hunter OST | In The Palace~Lamentoso/In The Palace~Agitato",
+      "type": "volume",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "0:34:52",
+      "muted": false,
+      "t": 2092451,
+      "title": "attack音D",
+      "type": "track",
+      "videoId": "c7NMfDeIMHs",
+      "videoTime": 1.5,
+      "volume": 6
+    },
+    {
+      "at": "0:36:11",
+      "muted": false,
+      "t": 2171136,
+      "title": "attack音D",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:36:12",
+      "muted": false,
+      "t": 2172498,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 1.2,
+      "volume": 5
+    },
+    {
+      "at": "0:39:11",
+      "muted": false,
+      "t": 2351001,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 5
+    },
+    {
+      "at": "0:39:11",
+      "muted": false,
+      "t": 2351002,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 5
+    },
+    {
+      "at": "0:39:48",
+      "muted": false,
+      "t": 2388537,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:39:48",
+      "muted": false,
+      "t": 2388538,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:42:48",
+      "muted": false,
+      "t": 2568263,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 5
+    },
+    {
+      "at": "0:42:48",
+      "muted": false,
+      "t": 2568263,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 5
+    },
+    {
+      "at": "0:43:35",
+      "muted": false,
+      "t": 2615665,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "0:43:37",
+      "muted": false,
+      "t": 2617134,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0.6,
+      "volume": 34
+    },
+    {
+      "at": "0:43:38",
+      "muted": false,
+      "t": 2618173,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "track",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.6,
+      "volume": 9
+    },
+    {
+      "at": "0:43:40",
+      "muted": false,
+      "t": 2620980,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 4.4,
+      "volume": 9
+    },
+    {
+      "at": "0:43:41",
+      "muted": false,
+      "t": 2621729,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "seeked",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 9
+    },
+    {
+      "at": "0:43:46",
+      "muted": false,
+      "t": 2626873,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:43:46",
+      "muted": false,
+      "t": 2626877,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:46:46",
+      "muted": false,
+      "t": 2806567,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:48:23",
+      "muted": false,
+      "t": 2903696,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 97.1,
+      "volume": 0
+    },
+    {
+      "at": "0:49:06",
+      "muted": false,
+      "t": 2946338,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 139.7,
+      "volume": 5
+    },
+    {
+      "at": "0:49:07",
+      "muted": false,
+      "t": 2947757,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 141.1,
+      "volume": 2
+    },
+    {
+      "at": "0:49:14",
+      "muted": false,
+      "t": 2954446,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 147.8,
+      "volume": 10
+    },
+    {
+      "at": "0:49:15",
+      "muted": false,
+      "t": 2955563,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 148.9,
+      "volume": 7
+    },
+    {
+      "at": "0:49:46",
+      "muted": false,
+      "t": 2986460,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:52:46",
+      "muted": false,
+      "t": 3166154,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:55:45",
+      "muted": false,
+      "t": 3345852,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:58:45",
+      "muted": false,
+      "t": 3525867,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:01:45",
+      "muted": false,
+      "t": 3705560,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:04:45",
+      "muted": false,
+      "t": 3885256,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:05:12",
+      "muted": false,
+      "t": 3912049,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 26.7,
+      "volume": 2
+    },
+    {
+      "at": "1:06:55",
+      "muted": false,
+      "t": 4015872,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 26.7,
+      "volume": 2
+    },
+    {
+      "at": "1:09:24",
+      "muted": false,
+      "t": 4164106,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 174.8,
+      "volume": 2
+    },
+    {
+      "at": "1:09:24",
+      "muted": false,
+      "t": 4164250,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:09:24",
+      "muted": false,
+      "t": 4164262,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:09:26",
+      "muted": false,
+      "t": 4166812,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2.5,
+      "volume": 21
+    },
+    {
+      "at": "1:10:30",
+      "muted": false,
+      "t": 4230902,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 66.6,
+      "volume": 11
+    },
+    {
+      "at": "1:16:17",
+      "muted": false,
+      "t": 4577535,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 9
+    },
+    {
+      "at": "1:17:51",
+      "muted": false,
+      "t": 4671811,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 94.2,
+      "volume": 7
+    },
+    {
+      "at": "1:19:45",
+      "muted": false,
+      "t": 4785157,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 207.6,
+      "volume": 5
+    },
+    {
+      "at": "1:19:45",
+      "muted": false,
+      "t": 4785157,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "ended",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 207.6,
+      "volume": 5
+    },
+    {
+      "at": "1:19:45",
+      "muted": false,
+      "t": 4785369,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "V88THoojXl0",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "1:19:47",
+      "muted": false,
+      "t": 4787563,
+      "title": "Melodie De Tapion Original",
+      "type": "track",
+      "videoId": "V88THoojXl0",
+      "videoTime": 2,
+      "volume": 5
+    },
+    {
+      "at": "1:22:50",
+      "muted": false,
+      "t": 4970479,
+      "title": "Melodie De Tapion Original",
+      "type": "volume",
+      "videoId": "V88THoojXl0",
+      "videoTime": 185,
+      "volume": 11
+    },
+    {
+      "at": "1:23:37",
+      "muted": false,
+      "t": 5017406,
+      "title": "Melodie De Tapion Original",
+      "type": "pause",
+      "videoId": "V88THoojXl0",
+      "videoTime": 231.9,
+      "volume": 15
+    },
+    {
+      "at": "1:23:37",
+      "muted": false,
+      "t": 5017406,
+      "title": "Melodie De Tapion Original",
+      "type": "ended",
+      "videoId": "V88THoojXl0",
+      "videoTime": 231.9,
+      "volume": 15
+    },
+    {
+      "at": "1:23:37",
+      "muted": false,
+      "t": 5017492,
+      "title": "Melodie De Tapion Original",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 15
+    },
+    {
+      "at": "1:23:39",
+      "muted": false,
+      "t": 5019563,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "track",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 1.9,
+      "volume": 15
+    },
+    {
+      "at": "1:23:40",
+      "muted": false,
+      "t": 5020141,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "V88THoojXl0",
+      "videoTime": 0,
+      "volume": 15
+    },
+    {
+      "at": "1:23:41",
+      "muted": false,
+      "t": 5021563,
+      "title": "Melodie De Tapion Original",
+      "type": "track",
+      "videoId": "V88THoojXl0",
+      "videoTime": 1.3,
+      "volume": 15
+    },
+    {
+      "at": "1:27:11",
+      "muted": false,
+      "t": 5231918,
+      "title": "Melodie De Tapion Original",
+      "type": "volume",
+      "videoId": "V88THoojXl0",
+      "videoTime": 211.6,
+      "volume": 32
+    },
+    {
+      "at": "1:27:32",
+      "muted": false,
+      "t": 5252192,
+      "title": "Melodie De Tapion Original",
+      "type": "pause",
+      "videoId": "V88THoojXl0",
+      "videoTime": 231.9,
+      "volume": 34
+    },
+    {
+      "at": "1:27:32",
+      "muted": false,
+      "t": 5252192,
+      "title": "Melodie De Tapion Original",
+      "type": "ended",
+      "videoId": "V88THoojXl0",
+      "videoTime": 231.9,
+      "volume": 34
+    },
+    {
+      "at": "1:27:32",
+      "muted": false,
+      "t": 5252319,
+      "title": "Melodie De Tapion Original",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 34
+    },
+    {
+      "at": "1:27:34",
+      "muted": false,
+      "t": 5254581,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "track",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 2.1,
+      "volume": 34
+    },
+    {
+      "at": "1:30:40",
+      "muted": false,
+      "t": 5440617,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "volume",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 188.2,
+      "volume": 7
+    },
+    {
+      "at": "1:31:57",
+      "muted": false,
+      "t": 5517107,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "seeked",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "1:36:21",
+      "muted": false,
+      "t": 5781798,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "seeked",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "1:38:49",
+      "muted": false,
+      "t": 5929919,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "V88THoojXl0",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "1:38:51",
+      "muted": false,
+      "t": 5931592,
+      "title": "Melodie De Tapion Original",
+      "type": "track",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "1:38:51",
+      "muted": false,
+      "t": 5931674,
+      "title": "Melodie De Tapion Original",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "1:38:53",
+      "muted": false,
+      "t": 5933420,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.4,
+      "volume": 13
+    },
+    {
+      "at": "1:38:53",
+      "muted": false,
+      "t": 5933581,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "track",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.4,
+      "volume": 13
+    },
+    {
+      "at": "1:38:54",
+      "muted": false,
+      "t": 5934964,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 66.6,
+      "volume": 11
+    },
+    {
+      "at": "1:38:55",
+      "muted": false,
+      "t": 5935647,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 67.1,
+      "volume": 11
+    },
+    {
+      "at": "1:38:55",
+      "muted": false,
+      "t": 5935826,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 11
+    },
+    {
+      "at": "1:38:55",
+      "muted": false,
+      "t": 5935838,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 11
+    },
+    {
+      "at": "1:38:56",
+      "muted": false,
+      "t": 5936493,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0.6,
+      "volume": 8
+    },
+    {
+      "at": "1:40:34",
+      "muted": false,
+      "t": 6034595,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 98.7,
+      "volume": 11
+    },
+    {
+      "at": "1:41:55",
+      "muted": false,
+      "t": 6115513,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:44:55",
+      "muted": false,
+      "t": 6295254,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:47:54",
+      "muted": false,
+      "t": 6474947,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:48:04",
+      "muted": false,
+      "t": 6484519,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 9.5,
+      "volume": 2
+    },
+    {
+      "at": "1:52:09",
+      "muted": false,
+      "t": 6729879,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.4,
+      "volume": 13
+    },
+    {
+      "at": "1:54:12",
+      "muted": false,
+      "t": 6852205,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 123.6,
+      "volume": 13
+    },
+    {
+      "at": "1:54:12",
+      "muted": false,
+      "t": 6852777,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 9.5,
+      "volume": 2
+    },
+    {
+      "at": "1:54:13",
+      "muted": false,
+      "t": 6853895,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 10.5,
+      "volume": 0
+    },
+    {
+      "at": "1:55:11",
+      "muted": false,
+      "t": 6911942,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 68.5,
+      "volume": 7
+    },
+    {
+      "at": "1:55:26",
+      "muted": false,
+      "t": 6926216,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 82.8,
+      "volume": 10
+    },
+    {
+      "at": "1:57:03",
+      "muted": false,
+      "t": 7023062,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "1:57:37",
+      "muted": false,
+      "t": 7057998,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 34.9,
+      "volume": 2
+    },
+    {
+      "at": "1:59:40",
+      "muted": false,
+      "t": 7180810,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 157.7,
+      "volume": 2
+    },
+    {
+      "at": "1:59:41",
+      "muted": false,
+      "t": 7181694,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 123.6,
+      "volume": 13
+    },
+    {
+      "at": "1:59:42",
+      "muted": false,
+      "t": 7182765,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 124.5,
+      "volume": 13
+    },
+    {
+      "at": "1:59:42",
+      "muted": false,
+      "t": 7182832,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.8,
+      "volume": 13
+    },
+    {
+      "at": "1:59:42",
+      "muted": false,
+      "t": 7182858,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "seeked",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.8,
+      "volume": 13
+    },
+    {
+      "at": "1:59:43",
+      "muted": false,
+      "t": 7183637,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 2.5,
+      "volume": 11
+    },
+    {
+      "at": "2:00:05",
+      "muted": false,
+      "t": 7205004,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 23.9,
+      "volume": 5
+    },
+    {
+      "at": "2:02:58",
+      "muted": false,
+      "t": 7378111,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 197,
+      "volume": 5
+    },
+    {
+      "at": "2:02:58",
+      "muted": false,
+      "t": 7378237,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 157.7,
+      "volume": 2
+    },
+    {
+      "at": "2:03:00",
+      "muted": false,
+      "t": 7380923,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 160.3,
+      "volume": 11
+    },
+    {
+      "at": "2:03:02",
+      "muted": false,
+      "t": 7382875,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 162.2,
+      "volume": 14
+    },
+    {
+      "at": "2:03:02",
+      "muted": false,
+      "t": 7382960,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 6.8,
+      "volume": 14
+    },
+    {
+      "at": "2:03:03",
+      "muted": false,
+      "t": 7383006,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 6.8,
+      "volume": 14
+    },
+    {
+      "at": "2:03:46",
+      "muted": false,
+      "t": 7426585,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 50.3,
+      "volume": 5
+    },
+    {
+      "at": "2:03:50",
+      "muted": false,
+      "t": 7430667,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 54.4,
+      "volume": 5
+    },
+    {
+      "at": "2:03:51",
+      "muted": false,
+      "t": 7431319,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 197,
+      "volume": 5
+    },
+    {
+      "at": "2:03:53",
+      "muted": false,
+      "t": 7433289,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 198.8,
+      "volume": 5
+    },
+    {
+      "at": "2:03:53",
+      "muted": false,
+      "t": 7433425,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 93.7,
+      "volume": 5
+    },
+    {
+      "at": "2:03:53",
+      "muted": false,
+      "t": 7433428,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "seeked",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 93.7,
+      "volume": 5
+    },
+    {
+      "at": "2:04:55",
+      "muted": false,
+      "t": 7495583,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 155.8,
+      "volume": 9
+    },
+    {
+      "at": "2:05:47",
+      "muted": false,
+      "t": 7547510,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "seeked",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:06:21",
+      "muted": false,
+      "t": 7581708,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "volume",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 34.1,
+      "volume": 5
+    },
+    {
+      "at": "2:09:02",
+      "muted": false,
+      "t": 7742851,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 1.2,
+      "volume": 5
+    },
+    {
+      "at": "2:09:04",
+      "muted": false,
+      "t": 7744607,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 197,
+      "volume": 5
+    },
+    {
+      "at": "2:09:05",
+      "muted": false,
+      "t": 7745982,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 1.2,
+      "volume": 5
+    },
+    {
+      "at": "2:09:06",
+      "muted": false,
+      "t": 7746693,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 1.9,
+      "volume": 2
+    },
+    {
+      "at": "2:09:48",
+      "muted": false,
+      "t": 7788697,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 43.9,
+      "volume": 4
+    },
+    {
+      "at": "2:12:04",
+      "muted": false,
+      "t": 7924441,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "2:15:04",
+      "muted": false,
+      "t": 8104132,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "2:18:03",
+      "muted": false,
+      "t": 8283827,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "2:18:06",
+      "muted": false,
+      "t": 8286656,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2.8,
+      "volume": 4
+    },
+    {
+      "at": "2:18:07",
+      "muted": false,
+      "t": 8287653,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 197,
+      "volume": 5
+    },
+    {
+      "at": "2:18:08",
+      "muted": false,
+      "t": 8288127,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 197.4,
+      "volume": 5
+    },
+    {
+      "at": "2:18:08",
+      "muted": false,
+      "t": 8288239,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 15.4,
+      "volume": 5
+    },
+    {
+      "at": "2:18:08",
+      "muted": false,
+      "t": 8288241,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "seeked",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 15.4,
+      "volume": 5
+    },
+    {
+      "at": "2:18:08",
+      "muted": false,
+      "t": 8288288,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 15.5,
+      "volume": 5
+    },
+    {
+      "at": "2:18:10",
+      "muted": false,
+      "t": 8290814,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:18:12",
+      "muted": false,
+      "t": 8292643,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "track",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 1.7,
+      "volume": 5
+    },
+    {
+      "at": "2:18:29",
+      "muted": false,
+      "t": 8309274,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "volume",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 18.3,
+      "volume": 7
+    },
+    {
+      "at": "2:22:35",
+      "muted": false,
+      "t": 8555603,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "pause",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 7
+    },
+    {
+      "at": "2:22:35",
+      "muted": false,
+      "t": 8555603,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "ended",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 7
+    },
+    {
+      "at": "2:22:35",
+      "muted": false,
+      "t": 8555743,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "2:22:37",
+      "muted": false,
+      "t": 8557643,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "track",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 1.8,
+      "volume": 7
+    },
+    {
+      "at": "2:26:11",
+      "muted": false,
+      "t": 8771674,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "pause",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 215.8,
+      "volume": 7
+    },
+    {
+      "at": "2:26:11",
+      "muted": false,
+      "t": 8771674,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "ended",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 215.8,
+      "volume": 7
+    },
+    {
+      "at": "2:26:11",
+      "muted": false,
+      "t": 8771866,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "play",
+      "videoId": "JLHhzWrpMOM",
+      "videoTime": 0,
+      "volume": 7
+    },
+    {
+      "at": "2:26:13",
+      "muted": false,
+      "t": 8773727,
+      "title": "NARUTO「Grief and Sorrow 哀と愁」Emotional Piano Cover 🍜2026 Steinway Version🍥 Ru's Piano",
+      "type": "track",
+      "videoId": "JLHhzWrpMOM",
+      "videoTime": 1.7,
+      "volume": 7
+    },
+    {
+      "at": "2:32:10",
+      "muted": false,
+      "t": 9130403,
+      "title": "NARUTO「Grief and Sorrow 哀と愁」Emotional Piano Cover 🍜2026 Steinway Version🍥 Ru's Piano",
+      "type": "pause",
+      "videoId": "JLHhzWrpMOM",
+      "videoTime": 358.4,
+      "volume": 7
+    },
+    {
+      "at": "2:32:10",
+      "muted": false,
+      "t": 9130403,
+      "title": "NARUTO「Grief and Sorrow 哀と愁」Emotional Piano Cover 🍜2026 Steinway Version🍥 Ru's Piano",
+      "type": "ended",
+      "videoId": "JLHhzWrpMOM",
+      "videoTime": 358.4,
+      "volume": 7
+    },
+    {
+      "at": "2:32:10",
+      "muted": false,
+      "t": 9130536,
+      "title": "NARUTO「Grief and Sorrow 哀と愁」Emotional Piano Cover 🍜2026 Steinway Version🍥 Ru's Piano",
+      "type": "play",
+      "videoId": "QtNXelKJoCs",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "2:32:12",
+      "muted": false,
+      "t": 9132704,
+      "title": "Attack on Titan - Call of Silence X Call Your Name Mashup Cover [ Season 2 OST | Ymir's song]",
+      "type": "track",
+      "videoId": "QtNXelKJoCs",
+      "videoTime": 2,
+      "volume": 6
+    },
+    {
+      "at": "2:35:45",
+      "muted": false,
+      "t": 9345749,
+      "title": "Attack on Titan - Call of Silence X Call Your Name Mashup Cover [ Season 2 OST | Ymir's song]",
+      "type": "pause",
+      "videoId": "QtNXelKJoCs",
+      "videoTime": 215,
+      "volume": 6
+    },
+    {
+      "at": "2:35:45",
+      "muted": false,
+      "t": 9345749,
+      "title": "Attack on Titan - Call of Silence X Call Your Name Mashup Cover [ Season 2 OST | Ymir's song]",
+      "type": "ended",
+      "videoId": "QtNXelKJoCs",
+      "videoTime": 215,
+      "volume": 6
+    },
+    {
+      "at": "2:35:45",
+      "muted": false,
+      "t": 9345851,
+      "title": "Attack on Titan - Call of Silence X Call Your Name Mashup Cover [ Season 2 OST | Ymir's song]",
+      "type": "play",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:35:47",
+      "muted": false,
+      "t": 9347690,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "track",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 1.7,
+      "volume": 5
+    },
+    {
+      "at": "2:36:13",
+      "muted": false,
+      "t": 9373146,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "volume",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 27.2,
+      "volume": 3
+    },
+    {
+      "at": "2:37:06",
+      "muted": false,
+      "t": 9426927,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "volume",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 81,
+      "volume": 7
+    },
+    {
+      "at": "2:37:49",
+      "muted": false,
+      "t": 9469128,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "volume",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 123.2,
+      "volume": 2
+    },
+    {
+      "at": "2:38:25",
+      "muted": false,
+      "t": 9505850,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "volume",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 159.9,
+      "volume": 1
+    },
+    {
+      "at": "2:38:28",
+      "muted": false,
+      "t": 9508396,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2.8,
+      "volume": 4
+    },
+    {
+      "at": "2:41:25",
+      "muted": false,
+      "t": 9685430,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "2:43:43",
+      "muted": false,
+      "t": 9823001,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 137.5,
+      "volume": 5
+    },
+    {
+      "at": "2:43:44",
+      "muted": false,
+      "t": 9824912,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 139.4,
+      "volume": 5
+    },
+    {
+      "at": "2:44:25",
+      "muted": false,
+      "t": 9865120,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:47:07",
+      "muted": false,
+      "t": 10027745,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 162.6,
+      "volume": 8
+    },
+    {
+      "at": "2:47:24",
+      "muted": false,
+      "t": 10044814,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:50:24",
+      "muted": false,
+      "t": 10224510,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:53:24",
+      "muted": false,
+      "t": 10404207,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:56:23",
+      "muted": false,
+      "t": 10583897,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "2:59:23",
+      "muted": false,
+      "t": 10763590,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:02:23",
+      "muted": false,
+      "t": 10943283,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:04:56",
+      "muted": false,
+      "t": 11096575,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 153.2,
+      "volume": 4
+    },
+    {
+      "at": "3:05:01",
+      "muted": false,
+      "t": 11101542,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "Zy2zR_ex1I4",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:05:03",
+      "muted": false,
+      "t": 11103046,
+      "title": "CYBERPUNK 2077 Cello Mix | Been Good To Know Ya | Ambient Soundtrack",
+      "type": "track",
+      "videoId": "Zy2zR_ex1I4",
+      "videoTime": 1.3,
+      "volume": 3
+    },
+    {
+      "at": "3:05:03",
+      "muted": false,
+      "t": 11103857,
+      "title": "CYBERPUNK 2077 Cello Mix | Been Good To Know Ya | Ambient Soundtrack",
+      "type": "volume",
+      "videoId": "Zy2zR_ex1I4",
+      "videoTime": 2.2,
+      "volume": 7
+    },
+    {
+      "at": "3:05:05",
+      "muted": false,
+      "t": 11105556,
+      "title": "CYBERPUNK 2077 Cello Mix | Been Good To Know Ya | Ambient Soundtrack",
+      "type": "volume",
+      "videoId": "Zy2zR_ex1I4",
+      "videoTime": 3.9,
+      "volume": 5
+    },
+    {
+      "at": "3:05:08",
+      "muted": false,
+      "t": 11108484,
+      "title": "CYBERPUNK 2077 Cello Mix | Been Good To Know Ya | Ambient Soundtrack",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:05:10",
+      "muted": false,
+      "t": 11110073,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 1.4,
+      "volume": 2
+    },
+    {
+      "at": "3:05:12",
+      "muted": false,
+      "t": 11112708,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:05:15",
+      "muted": false,
+      "t": 11115046,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "track",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 2.1,
+      "volume": 3
+    },
+    {
+      "at": "3:05:16",
+      "muted": false,
+      "t": 11116300,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "volume",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 3.4,
+      "volume": 17
+    },
+    {
+      "at": "3:12:30",
+      "muted": false,
+      "t": 11550745,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "volume",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 437.8,
+      "volume": 11
+    },
+    {
+      "at": "3:36:41",
+      "muted": false,
+      "t": 13001431,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "pause",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 1888.5,
+      "volume": 9
+    },
+    {
+      "at": "3:36:45",
+      "muted": false,
+      "t": 13005196,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "play",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "3:36:47",
+      "muted": false,
+      "t": 13007073,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 1.7,
+      "volume": 6
+    },
+    {
+      "at": "3:40:59",
+      "muted": false,
+      "t": 13259156,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "pause",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 6
+    },
+    {
+      "at": "3:40:59",
+      "muted": false,
+      "t": 13259156,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "ended",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 6
+    },
+    {
+      "at": "3:40:59",
+      "muted": false,
+      "t": 13259258,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 9
+    },
+    {
+      "at": "3:41:01",
+      "muted": false,
+      "t": 13261069,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "track",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 1.8,
+      "volume": 9
+    },
+    {
+      "at": "3:44:26",
+      "muted": false,
+      "t": 13466900,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "pause",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 207.6,
+      "volume": 9
+    },
+    {
+      "at": "3:44:26",
+      "muted": false,
+      "t": 13466900,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "ended",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 207.6,
+      "volume": 9
+    },
+    {
+      "at": "3:44:27",
+      "muted": false,
+      "t": 13467001,
+      "title": "Most Emotional Anime OST - Hyori Ittai ~ Lamento for piano",
+      "type": "play",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 0,
+      "volume": 9
+    },
+    {
+      "at": "3:44:29",
+      "muted": false,
+      "t": 13469070,
+      "title": "Early Summer Rain",
+      "type": "track",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 2,
+      "volume": 9
+    },
+    {
+      "at": "3:45:38",
+      "muted": false,
+      "t": 13538389,
+      "title": "Early Summer Rain",
+      "type": "volume",
+      "videoId": "Xb5rfYmZRUI",
+      "videoTime": 71.3,
+      "volume": 7
+    },
+    {
+      "at": "3:47:48",
+      "muted": false,
+      "t": 13668466,
+      "title": "Early Summer Rain",
+      "type": "play",
+      "videoId": "MnKfa0xly6o",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:47:49",
+      "muted": false,
+      "t": 13669089,
+      "title": "Early Summer Rain",
+      "type": "play",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:47:50",
+      "muted": false,
+      "t": 13670077,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0.8,
+      "volume": 2
+    },
+    {
+      "at": "3:47:50",
+      "muted": false,
+      "t": 13670329,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:47:50",
+      "muted": false,
+      "t": 13670461,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "seeked",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 1868,
+      "volume": 3
+    },
+    {
+      "at": "3:47:51",
+      "muted": false,
+      "t": 13671001,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:47:51",
+      "muted": false,
+      "t": 13671096,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:47:53",
+      "muted": false,
+      "t": 13673104,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 1.9,
+      "volume": 5
+    },
+    {
+      "at": "3:47:53",
+      "muted": false,
+      "t": 13673112,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2,
+      "volume": 5
+    },
+    {
+      "at": "3:47:53",
+      "muted": false,
+      "t": 13673243,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2.1,
+      "volume": 7
+    },
+    {
+      "at": "3:50:50",
+      "muted": false,
+      "t": 13850389,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.2,
+      "volume": 5
+    },
+    {
+      "at": "3:50:50",
+      "muted": false,
+      "t": 13850508,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 5.6,
+      "volume": 5
+    },
+    {
+      "at": "3:50:50",
+      "muted": false,
+      "t": 13850537,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 5.6,
+      "volume": 5
+    },
+    {
+      "at": "3:53:44",
+      "muted": false,
+      "t": 14024614,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 5
+    },
+    {
+      "at": "3:53:44",
+      "muted": false,
+      "t": 14024614,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 5
+    },
+    {
+      "at": "3:53:57",
+      "muted": false,
+      "t": 14037319,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:53:57",
+      "muted": false,
+      "t": 14037327,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:56:56",
+      "muted": false,
+      "t": 14216998,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:59:56",
+      "muted": false,
+      "t": 14396691,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "4:00:45",
+      "muted": false,
+      "t": 14445144,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 48.4,
+      "volume": 5
+    },
+    {
+      "at": "4:01:01",
+      "muted": false,
+      "t": 14461868,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 48.4,
+      "volume": 5
+    },
+    {
+      "at": "4:02:58",
+      "muted": false,
+      "t": 14578599,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 165,
+      "volume": 8
+    },
+    {
+      "at": "4:03:13",
+      "muted": false,
+      "t": 14593256,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "4:03:31",
+      "muted": false,
+      "t": 14611956,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 18.6,
+      "volume": 4
+    },
+    {
+      "at": "4:06:12",
+      "muted": false,
+      "t": 14772950,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "4:07:44",
+      "muted": false,
+      "t": 14864842,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 91.8,
+      "volume": 5
+    },
+    {
+      "at": "4:07:46",
+      "muted": false,
+      "t": 14866274,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 93.3,
+      "volume": 2
+    },
+    {
+      "at": "4:09:12",
+      "muted": false,
+      "t": 14952643,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:12:12",
+      "muted": false,
+      "t": 15132339,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:15:12",
+      "muted": false,
+      "t": 15312040,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:18:11",
+      "muted": false,
+      "t": 15491724,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:21:11",
+      "muted": false,
+      "t": 15671419,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:24:11",
+      "muted": false,
+      "t": 15851112,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:27:10",
+      "muted": false,
+      "t": 16030805,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:29:49",
+      "muted": false,
+      "t": 16189939,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 159.1,
+      "volume": 2
+    },
+    {
+      "at": "4:29:54",
+      "muted": false,
+      "t": 16194136,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "4:29:54",
+      "muted": false,
+      "t": 16194335,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 2004,
+      "volume": 3
+    },
+    {
+      "at": "4:29:56",
+      "muted": false,
+      "t": 16196070,
+      "title": "I only have one goal...",
+      "type": "track",
+      "videoId": "y5BT0gt9n-k",
+      "videoTime": 2005.7,
+      "volume": 3
+    },
+    {
+      "at": "4:29:56",
+      "muted": false,
+      "t": 16196910,
+      "title": "I only have one goal...",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:29:59",
+      "muted": false,
+      "t": 16199191,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2.2,
+      "volume": 2
+    },
+    {
+      "at": "4:32:56",
+      "muted": false,
+      "t": 16376697,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 2
+    },
+    {
+      "at": "4:32:56",
+      "muted": false,
+      "t": 16376697,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 2
+    },
+    {
+      "at": "4:39:16",
+      "muted": false,
+      "t": 16756871,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:39:16",
+      "muted": false,
+      "t": 16756892,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:42:16",
+      "muted": false,
+      "t": 16936567,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:45:16",
+      "muted": false,
+      "t": 17116259,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "seeked",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:47:01",
+      "muted": false,
+      "t": 17221424,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 105.1,
+      "volume": 2
+    },
+    {
+      "at": "4:47:04",
+      "muted": false,
+      "t": 17224764,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "4:47:07",
+      "muted": false,
+      "t": 17227193,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "track",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 2.3,
+      "volume": 3
+    },
+    {
+      "at": "4:59:49",
+      "muted": false,
+      "t": 17989864,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 764.7,
+      "volume": 1
+    },
+    {
+      "at": "4:59:54",
+      "muted": false,
+      "t": 17994466,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 769.3,
+      "volume": 9
+    },
+    {
+      "at": "5:05:19",
+      "muted": false,
+      "t": 18319390,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "pause",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 3
+    },
+    {
+      "at": "5:05:19",
+      "muted": false,
+      "t": 18319390,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "ended",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 3
+    },
+    {
+      "at": "5:07:27",
+      "muted": false,
+      "t": 18447618,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "play",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "5:07:29",
+      "muted": false,
+      "t": 18449302,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "track",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 1.6,
+      "volume": 2
+    },
+    {
+      "at": "5:07:29",
+      "muted": false,
+      "t": 18449468,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 1.7,
+      "volume": 8
+    },
+    {
+      "at": "5:07:30",
+      "muted": false,
+      "t": 18450746,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 3,
+      "volume": 7
+    },
+    {
+      "at": "5:07:33",
+      "muted": false,
+      "t": 18453265,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 5.5,
+      "volume": 11
+    },
+    {
+      "at": "5:11:09",
+      "muted": false,
+      "t": 18669314,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 221.6,
+      "volume": 1
+    },
+    {
+      "at": "5:12:22",
+      "muted": false,
+      "t": 18742717,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 295,
+      "volume": 2
+    },
+    {
+      "at": "5:12:33",
+      "muted": false,
+      "t": 18753140,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "volume",
+      "videoId": "Fu_dfw3qPXQ",
+      "videoTime": 305.4,
+      "volume": 2
+    },
+    {
+      "at": "5:18:44",
+      "muted": false,
+      "t": 19124581,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "play",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "5:18:44",
+      "muted": false,
+      "t": 19124737,
+      "title": "Mugen Tsukuyomi - Madara Suite (Naruto OST Compilation)",
+      "type": "seeked",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 1136,
+      "volume": 3
+    },
+    {
+      "at": "5:18:46",
+      "muted": false,
+      "t": 19126305,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "track",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 1137.5,
+      "volume": 3
+    },
+    {
+      "at": "6:02:03",
+      "muted": false,
+      "t": 21723780,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "pause",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 3735,
+      "volume": 3
+    },
+    {
+      "at": "6:02:03",
+      "muted": false,
+      "t": 21723780,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "ended",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 3735,
+      "volume": 3
+    },
+    {
+      "at": "6:14:43",
+      "muted": false,
+      "t": 22483646,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "seeked",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "6:14:43",
+      "muted": false,
+      "t": 22483647,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "play",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "6:14:44",
+      "muted": false,
+      "t": 22484096,
+      "title": "Naruto Shippuden - Loneliness (Kodoku) - Hour Loop",
+      "type": "volume",
+      "videoId": "fXLYRLkGS4o",
+      "videoTime": 0.4,
+      "volume": 13
+    }
+  ]
+}

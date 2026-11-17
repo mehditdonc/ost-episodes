@@ -1,0 +1,2420 @@
+{
+  "format": "ost-recorder/1",
+  "channel": "mehditdonc",
+  "episode": 74,
+  "streamTitle": "Malade mais tqt | ÉPISODE 74 ZENKAI RP",
+  "streamStartedAt": "2026-11-16T21:44:56.995Z",
+  "exportedAt": "2026-11-17T02:16:11.568Z",
+  "events": [
+    {
+      "at": "0:09:09",
+      "muted": false,
+      "t": 549430,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 228.4,
+      "volume": 4
+    },
+    {
+      "at": "0:09:09",
+      "muted": false,
+      "t": 549430,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 228.4,
+      "volume": 4
+    },
+    {
+      "at": "0:09:09",
+      "muted": false,
+      "t": 549546,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "0:09:11",
+      "muted": false,
+      "t": 551889,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 2.3,
+      "volume": 4
+    },
+    {
+      "at": "0:10:17",
+      "muted": false,
+      "t": 617295,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 67.7,
+      "volume": 6
+    },
+    {
+      "at": "0:13:24",
+      "muted": false,
+      "t": 804998,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 255.1,
+      "volume": 4
+    },
+    {
+      "at": "0:13:24",
+      "muted": false,
+      "t": 804999,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 255.1,
+      "volume": 4
+    },
+    {
+      "at": "0:13:25",
+      "muted": false,
+      "t": 805137,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:13:27",
+      "muted": false,
+      "t": 807068,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "track",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 1.9,
+      "volume": 5
+    },
+    {
+      "at": "0:17:01",
+      "muted": false,
+      "t": 1021202,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "pause",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 215.8,
+      "volume": 5
+    },
+    {
+      "at": "0:17:01",
+      "muted": false,
+      "t": 1021202,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "ended",
+      "videoId": "0mJG3WsxWHY",
+      "videoTime": 215.8,
+      "volume": 5
+    },
+    {
+      "at": "0:17:01",
+      "muted": false,
+      "t": 1021656,
+      "title": "Shingeki no Kyojin S2 Episode 10 OST – ‘Call of Silence’ [Orchestral Rearrangement]",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:17:03",
+      "muted": false,
+      "t": 1023178,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "track",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 1.4,
+      "volume": 5
+    },
+    {
+      "at": "0:21:26",
+      "muted": false,
+      "t": 1286413,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "pause",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 5
+    },
+    {
+      "at": "0:21:26",
+      "muted": false,
+      "t": 1286413,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "ended",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 5
+    },
+    {
+      "at": "0:21:26",
+      "muted": false,
+      "t": 1286504,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "26DkJuBZW7E",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:21:28",
+      "muted": false,
+      "t": 1288080,
+      "title": "Father and Mother",
+      "type": "track",
+      "videoId": "26DkJuBZW7E",
+      "videoTime": 1.5,
+      "volume": 5
+    },
+    {
+      "at": "0:24:49",
+      "muted": false,
+      "t": 1489335,
+      "title": "Father and Mother",
+      "type": "pause",
+      "videoId": "26DkJuBZW7E",
+      "videoTime": 202.6,
+      "volume": 5
+    },
+    {
+      "at": "0:24:49",
+      "muted": false,
+      "t": 1489336,
+      "title": "Father and Mother",
+      "type": "ended",
+      "videoId": "26DkJuBZW7E",
+      "videoTime": 202.6,
+      "volume": 5
+    },
+    {
+      "at": "0:24:49",
+      "muted": false,
+      "t": 1489412,
+      "title": "Father and Mother",
+      "type": "play",
+      "videoId": "zuNyi9YAtzg",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:24:51",
+      "muted": false,
+      "t": 1491079,
+      "title": "VINLAND SAGA OST - Somewhere Else (Edited Ver.)",
+      "type": "track",
+      "videoId": "zuNyi9YAtzg",
+      "videoTime": 1.6,
+      "volume": 5
+    },
+    {
+      "at": "0:28:18",
+      "muted": false,
+      "t": 1698362,
+      "title": "VINLAND SAGA OST - Somewhere Else (Edited Ver.)",
+      "type": "volume",
+      "videoId": "zuNyi9YAtzg",
+      "videoTime": 208.9,
+      "volume": 0
+    },
+    {
+      "at": "0:30:23",
+      "muted": false,
+      "t": 1823132,
+      "title": "VINLAND SAGA OST - Somewhere Else (Edited Ver.)",
+      "type": "pause",
+      "videoId": "zuNyi9YAtzg",
+      "videoTime": 333.5,
+      "volume": 1
+    },
+    {
+      "at": "0:30:23",
+      "muted": false,
+      "t": 1823132,
+      "title": "VINLAND SAGA OST - Somewhere Else (Edited Ver.)",
+      "type": "ended",
+      "videoId": "zuNyi9YAtzg",
+      "videoTime": 333.5,
+      "volume": 1
+    },
+    {
+      "at": "0:30:23",
+      "muted": false,
+      "t": 1823253,
+      "title": "VINLAND SAGA OST - Somewhere Else (Edited Ver.)",
+      "type": "play",
+      "videoId": "PPogqE-0QBk",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "0:30:25",
+      "muted": false,
+      "t": 1825079,
+      "title": "Harry Potter & the Deathly Hallows, Pt. 2 Soundtrack | Lily’s Theme - Alexandre Desplat | WaterTower",
+      "type": "track",
+      "videoId": "PPogqE-0QBk",
+      "videoTime": 1.7,
+      "volume": 1
+    },
+    {
+      "at": "0:30:34",
+      "muted": false,
+      "t": 1834209,
+      "title": "Harry Potter & the Deathly Hallows, Pt. 2 Soundtrack | Lily’s Theme - Alexandre Desplat | WaterTower",
+      "type": "volume",
+      "videoId": "PPogqE-0QBk",
+      "videoTime": 10.8,
+      "volume": 19
+    },
+    {
+      "at": "0:32:52",
+      "muted": false,
+      "t": 1972365,
+      "title": "Harry Potter & the Deathly Hallows, Pt. 2 Soundtrack | Lily’s Theme - Alexandre Desplat | WaterTower",
+      "type": "pause",
+      "videoId": "PPogqE-0QBk",
+      "videoTime": 148.8,
+      "volume": 13
+    },
+    {
+      "at": "0:32:52",
+      "muted": false,
+      "t": 1972366,
+      "title": "Harry Potter & the Deathly Hallows, Pt. 2 Soundtrack | Lily’s Theme - Alexandre Desplat | WaterTower",
+      "type": "ended",
+      "videoId": "PPogqE-0QBk",
+      "videoTime": 148.8,
+      "volume": 13
+    },
+    {
+      "at": "0:32:52",
+      "muted": false,
+      "t": 1972460,
+      "title": "Harry Potter & the Deathly Hallows, Pt. 2 Soundtrack | Lily’s Theme - Alexandre Desplat | WaterTower",
+      "type": "play",
+      "videoId": "BTEPejgVJPI",
+      "videoTime": 0,
+      "volume": 8
+    },
+    {
+      "at": "0:32:54",
+      "muted": false,
+      "t": 1974081,
+      "title": "The Other Side of the Sea",
+      "type": "track",
+      "videoId": "BTEPejgVJPI",
+      "videoTime": 1.5,
+      "volume": 8
+    },
+    {
+      "at": "0:33:48",
+      "muted": false,
+      "t": 2028574,
+      "title": "The Other Side of the Sea",
+      "type": "volume",
+      "videoId": "BTEPejgVJPI",
+      "videoTime": 56,
+      "volume": 7
+    },
+    {
+      "at": "0:37:40",
+      "muted": false,
+      "t": 2260743,
+      "title": "The Other Side of the Sea",
+      "type": "volume",
+      "videoId": "BTEPejgVJPI",
+      "videoTime": 288.2,
+      "volume": 0
+    },
+    {
+      "at": "0:37:50",
+      "muted": false,
+      "t": 2270112,
+      "title": "The Other Side of the Sea",
+      "type": "pause",
+      "videoId": "BTEPejgVJPI",
+      "videoTime": 297.5,
+      "volume": 2
+    },
+    {
+      "at": "0:37:50",
+      "muted": false,
+      "t": 2270112,
+      "title": "The Other Side of the Sea",
+      "type": "ended",
+      "videoId": "BTEPejgVJPI",
+      "videoTime": 297.5,
+      "volume": 2
+    },
+    {
+      "at": "0:37:50",
+      "muted": false,
+      "t": 2270229,
+      "title": "The Other Side of the Sea",
+      "type": "play",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "0:37:52",
+      "muted": false,
+      "t": 2272079,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "track",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 1.8,
+      "volume": 1
+    },
+    {
+      "at": "0:41:54",
+      "muted": false,
+      "t": 2514178,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "pause",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 243.6,
+      "volume": 1
+    },
+    {
+      "at": "0:41:54",
+      "muted": false,
+      "t": 2514178,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "ended",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 243.6,
+      "volume": 1
+    },
+    {
+      "at": "0:41:54",
+      "muted": false,
+      "t": 2514278,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "play",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:41:56",
+      "muted": false,
+      "t": 2516079,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "track",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 1.7,
+      "volume": 2
+    },
+    {
+      "at": "0:46:20",
+      "muted": false,
+      "t": 2780278,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "volume",
+      "videoId": "igKXRrb5_ts",
+      "videoTime": 265.9,
+      "volume": 6
+    },
+    {
+      "at": "0:46:23",
+      "muted": false,
+      "t": 2783924,
+      "title": "Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST]",
+      "type": "play",
+      "videoId": "gKhWWF6JBhQ",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:46:26",
+      "muted": false,
+      "t": 2786084,
+      "title": "Naruto Shippuden OST - Man of the World (Cover)",
+      "type": "track",
+      "videoId": "gKhWWF6JBhQ",
+      "videoTime": 1.9,
+      "volume": 5
+    },
+    {
+      "at": "0:50:18",
+      "muted": false,
+      "t": 3018684,
+      "title": "Naruto Shippuden OST - Man of the World (Cover)",
+      "type": "pause",
+      "videoId": "gKhWWF6JBhQ",
+      "videoTime": 234.5,
+      "volume": 5
+    },
+    {
+      "at": "0:50:18",
+      "muted": false,
+      "t": 3018684,
+      "title": "Naruto Shippuden OST - Man of the World (Cover)",
+      "type": "ended",
+      "videoId": "gKhWWF6JBhQ",
+      "videoTime": 234.5,
+      "volume": 5
+    },
+    {
+      "at": "0:50:18",
+      "muted": false,
+      "t": 3018798,
+      "title": "Naruto Shippuden OST - Man of the World (Cover)",
+      "type": "play",
+      "videoId": "cH-MXn0HsX0",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:50:22",
+      "muted": false,
+      "t": 3022718,
+      "title": "Naruto Shippuden Ost - I Have Seen Much (Slowed)",
+      "type": "track",
+      "videoId": "cH-MXn0HsX0",
+      "videoTime": 3.8,
+      "volume": 5
+    },
+    {
+      "at": "0:55:21",
+      "muted": false,
+      "t": 3321737,
+      "title": "Naruto Shippuden Ost - I Have Seen Much (Slowed)",
+      "type": "pause",
+      "videoId": "cH-MXn0HsX0",
+      "videoTime": 302.8,
+      "volume": 5
+    },
+    {
+      "at": "0:55:21",
+      "muted": false,
+      "t": 3321738,
+      "title": "Naruto Shippuden Ost - I Have Seen Much (Slowed)",
+      "type": "ended",
+      "videoId": "cH-MXn0HsX0",
+      "videoTime": 302.8,
+      "volume": 5
+    },
+    {
+      "at": "0:55:21",
+      "muted": false,
+      "t": 3321824,
+      "title": "Naruto Shippuden Ost - I Have Seen Much (Slowed)",
+      "type": "play",
+      "videoId": "rnqn_nz0bfA",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "0:55:24",
+      "muted": false,
+      "t": 3324229,
+      "title": "Cyberpunk 2077: Phantom Liberty OST: Never Looking Back (Cynosure Core Variation)",
+      "type": "track",
+      "videoId": "rnqn_nz0bfA",
+      "videoTime": 2.3,
+      "volume": 5
+    },
+    {
+      "at": "1:02:04",
+      "muted": false,
+      "t": 3724213,
+      "title": "Cyberpunk 2077: Phantom Liberty OST: Never Looking Back (Cynosure Core Variation)",
+      "type": "pause",
+      "videoId": "rnqn_nz0bfA",
+      "videoTime": 402.3,
+      "volume": 5
+    },
+    {
+      "at": "1:02:04",
+      "muted": false,
+      "t": 3724213,
+      "title": "Cyberpunk 2077: Phantom Liberty OST: Never Looking Back (Cynosure Core Variation)",
+      "type": "ended",
+      "videoId": "rnqn_nz0bfA",
+      "videoTime": 402.3,
+      "volume": 5
+    },
+    {
+      "at": "1:02:04",
+      "muted": false,
+      "t": 3724339,
+      "title": "Cyberpunk 2077: Phantom Liberty OST: Never Looking Back (Cynosure Core Variation)",
+      "type": "play",
+      "videoId": "sdAWVLdEDZk",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "1:02:06",
+      "muted": false,
+      "t": 3726079,
+      "title": "Cyberpunk 2077: Phantom Liberty - Get It Together (Theme)",
+      "type": "track",
+      "videoId": "sdAWVLdEDZk",
+      "videoTime": 1.6,
+      "volume": 5
+    },
+    {
+      "at": "1:10:18",
+      "muted": false,
+      "t": 4218255,
+      "title": "Cyberpunk 2077: Phantom Liberty - Get It Together (Theme)",
+      "type": "pause",
+      "videoId": "sdAWVLdEDZk",
+      "videoTime": 493.7,
+      "volume": 5
+    },
+    {
+      "at": "1:10:18",
+      "muted": false,
+      "t": 4218256,
+      "title": "Cyberpunk 2077: Phantom Liberty - Get It Together (Theme)",
+      "type": "ended",
+      "videoId": "sdAWVLdEDZk",
+      "videoTime": 493.7,
+      "volume": 5
+    },
+    {
+      "at": "1:10:18",
+      "muted": false,
+      "t": 4218367,
+      "title": "Cyberpunk 2077: Phantom Liberty - Get It Together (Theme)",
+      "type": "play",
+      "videoId": "_k0i0NOeaAE",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "1:10:20",
+      "muted": false,
+      "t": 4220078,
+      "title": "CYBERPUNK 2077 Phantom Liberty | Songbird Freed | Unofficial Soundtrack",
+      "type": "track",
+      "videoId": "_k0i0NOeaAE",
+      "videoTime": 1.6,
+      "volume": 5
+    },
+    {
+      "at": "1:15:48",
+      "muted": false,
+      "t": 4548693,
+      "title": "CYBERPUNK 2077 Phantom Liberty | Songbird Freed | Unofficial Soundtrack",
+      "type": "pause",
+      "videoId": "_k0i0NOeaAE",
+      "videoTime": 330,
+      "volume": 5
+    },
+    {
+      "at": "1:15:48",
+      "muted": false,
+      "t": 4548693,
+      "title": "CYBERPUNK 2077 Phantom Liberty | Songbird Freed | Unofficial Soundtrack",
+      "type": "ended",
+      "videoId": "_k0i0NOeaAE",
+      "videoTime": 330,
+      "volume": 5
+    },
+    {
+      "at": "1:15:48",
+      "muted": false,
+      "t": 4548788,
+      "title": "CYBERPUNK 2077 Phantom Liberty | Songbird Freed | Unofficial Soundtrack",
+      "type": "play",
+      "videoId": "2o9KfyPqQzY",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "1:15:51",
+      "muted": false,
+      "t": 4551225,
+      "title": "No Time for Caution",
+      "type": "track",
+      "videoId": "2o9KfyPqQzY",
+      "videoTime": 2.3,
+      "volume": 5
+    },
+    {
+      "at": "1:19:55",
+      "muted": false,
+      "t": 4795228,
+      "title": "No Time for Caution",
+      "type": "pause",
+      "videoId": "2o9KfyPqQzY",
+      "videoTime": 246.3,
+      "volume": 5
+    },
+    {
+      "at": "1:19:55",
+      "muted": false,
+      "t": 4795228,
+      "title": "No Time for Caution",
+      "type": "ended",
+      "videoId": "2o9KfyPqQzY",
+      "videoTime": 246.3,
+      "volume": 5
+    },
+    {
+      "at": "1:19:55",
+      "muted": false,
+      "t": 4795321,
+      "title": "No Time for Caution",
+      "type": "play",
+      "videoId": "to-YncdalV4",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "1:19:57",
+      "muted": false,
+      "t": 4797078,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "to-YncdalV4",
+      "videoTime": 1.6,
+      "volume": 3
+    },
+    {
+      "at": "1:23:02",
+      "muted": false,
+      "t": 4982417,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "pause",
+      "videoId": "to-YncdalV4",
+      "videoTime": 186.9,
+      "volume": 3
+    },
+    {
+      "at": "1:23:02",
+      "muted": false,
+      "t": 4982417,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "ended",
+      "videoId": "to-YncdalV4",
+      "videoTime": 186.9,
+      "volume": 3
+    },
+    {
+      "at": "1:23:02",
+      "muted": false,
+      "t": 4982511,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "1:23:04",
+      "muted": false,
+      "t": 4984080,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "track",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 1.5,
+      "volume": 5
+    },
+    {
+      "at": "1:24:12",
+      "muted": false,
+      "t": 5052958,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "volume",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 70.3,
+      "volume": 11
+    },
+    {
+      "at": "1:27:57",
+      "muted": false,
+      "t": 5277521,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "pause",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 294.9,
+      "volume": 3
+    },
+    {
+      "at": "1:27:57",
+      "muted": false,
+      "t": 5277521,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "ended",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 294.9,
+      "volume": 3
+    },
+    {
+      "at": "1:27:57",
+      "muted": false,
+      "t": 5277620,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "play",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "1:27:59",
+      "muted": false,
+      "t": 5279153,
+      "title": "Vogel im Käfig",
+      "type": "track",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 1.4,
+      "volume": 3
+    },
+    {
+      "at": "1:34:17",
+      "muted": false,
+      "t": 5657988,
+      "title": "Vogel im Käfig",
+      "type": "pause",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 380.1,
+      "volume": 3
+    },
+    {
+      "at": "1:34:17",
+      "muted": false,
+      "t": 5657988,
+      "title": "Vogel im Käfig",
+      "type": "ended",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 380.1,
+      "volume": 3
+    },
+    {
+      "at": "1:34:18",
+      "muted": false,
+      "t": 5658100,
+      "title": "Vogel im Käfig",
+      "type": "play",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:34:20",
+      "muted": false,
+      "t": 5660232,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 2,
+      "volume": 2
+    },
+    {
+      "at": "1:38:32",
+      "muted": false,
+      "t": 5912134,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "pause",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 2
+    },
+    {
+      "at": "1:38:32",
+      "muted": false,
+      "t": 5912134,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "ended",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 2
+    },
+    {
+      "at": "1:38:32",
+      "muted": false,
+      "t": 5912371,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:38:34",
+      "muted": false,
+      "t": 5914231,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "track",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 1.8,
+      "volume": 2
+    },
+    {
+      "at": "1:39:57",
+      "muted": false,
+      "t": 5997941,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "pause",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 85.5,
+      "volume": 2
+    },
+    {
+      "at": "1:48:57",
+      "muted": false,
+      "t": 6537578,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "play",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "1:48:59",
+      "muted": false,
+      "t": 6539235,
+      "title": "Vogel im Käfig",
+      "type": "track",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 1.5,
+      "volume": 3
+    },
+    {
+      "at": "1:52:11",
+      "muted": false,
+      "t": 6731138,
+      "title": "Vogel im Käfig",
+      "type": "volume",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 193.4,
+      "volume": 8
+    },
+    {
+      "at": "1:52:12",
+      "muted": false,
+      "t": 6732864,
+      "title": "Vogel im Käfig",
+      "type": "play",
+      "videoId": "to-YncdalV4",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "1:52:14",
+      "muted": false,
+      "t": 6734252,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "to-YncdalV4",
+      "videoTime": 1.2,
+      "volume": 3
+    },
+    {
+      "at": "1:52:16",
+      "muted": false,
+      "t": 6736114,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "volume",
+      "videoId": "to-YncdalV4",
+      "videoTime": 3.1,
+      "volume": 2
+    },
+    {
+      "at": "1:52:37",
+      "muted": true,
+      "t": 6757634,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "volume",
+      "videoId": "to-YncdalV4",
+      "videoTime": 24.6,
+      "volume": 3
+    },
+    {
+      "at": "1:55:20",
+      "muted": true,
+      "t": 6920565,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "pause",
+      "videoId": "to-YncdalV4",
+      "videoTime": 186.9,
+      "volume": 3
+    },
+    {
+      "at": "1:55:20",
+      "muted": true,
+      "t": 6920565,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "ended",
+      "videoId": "to-YncdalV4",
+      "videoTime": 186.9,
+      "volume": 3
+    },
+    {
+      "at": "1:55:20",
+      "muted": true,
+      "t": 6920683,
+      "title": "Sung JinWoo vs The Ant King Beru Theme「Solo Leveling Season 2 Episode 12 OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "1:55:23",
+      "muted": true,
+      "t": 6923225,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "track",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 2.5,
+      "volume": 5
+    },
+    {
+      "at": "1:58:51",
+      "muted": false,
+      "t": 7131037,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "volume",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 209.9,
+      "volume": 0
+    },
+    {
+      "at": "2:00:16",
+      "muted": false,
+      "t": 7216047,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "pause",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 294.9,
+      "volume": 5
+    },
+    {
+      "at": "2:00:16",
+      "muted": false,
+      "t": 7216047,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "ended",
+      "videoId": "vvvvcpwFw5o",
+      "videoTime": 294.9,
+      "volume": 5
+    },
+    {
+      "at": "2:00:16",
+      "muted": false,
+      "t": 7216152,
+      "title": "Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]",
+      "type": "play",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "2:00:18",
+      "muted": false,
+      "t": 7218231,
+      "title": "Vogel im Käfig",
+      "type": "track",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 1.9,
+      "volume": 4
+    },
+    {
+      "at": "2:06:36",
+      "muted": false,
+      "t": 7596497,
+      "title": "Vogel im Käfig",
+      "type": "pause",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 380.1,
+      "volume": 4
+    },
+    {
+      "at": "2:06:36",
+      "muted": false,
+      "t": 7596497,
+      "title": "Vogel im Käfig",
+      "type": "ended",
+      "videoId": "H76_uW1Fnso",
+      "videoTime": 380.1,
+      "volume": 4
+    },
+    {
+      "at": "2:06:36",
+      "muted": false,
+      "t": 7596602,
+      "title": "Vogel im Käfig",
+      "type": "play",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:06:38",
+      "muted": false,
+      "t": 7598233,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 1.5,
+      "volume": 3
+    },
+    {
+      "at": "2:09:08",
+      "muted": false,
+      "t": 7748205,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:09:10",
+      "muted": false,
+      "t": 7750232,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "track",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 1.9,
+      "volume": 3
+    },
+    {
+      "at": "2:09:56",
+      "muted": false,
+      "t": 7796891,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "pause",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 48.6,
+      "volume": 3
+    },
+    {
+      "at": "2:11:50",
+      "muted": false,
+      "t": 7910855,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "play",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:11:52",
+      "muted": false,
+      "t": 7912291,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "track",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 1.3,
+      "volume": 3
+    },
+    {
+      "at": "2:16:04",
+      "muted": false,
+      "t": 8164901,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "pause",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 3
+    },
+    {
+      "at": "2:16:04",
+      "muted": false,
+      "t": 8164901,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "ended",
+      "videoId": "a1BYwI7_vLE",
+      "videoTime": 253.8,
+      "volume": 3
+    },
+    {
+      "at": "2:16:05",
+      "muted": false,
+      "t": 8165015,
+      "title": "Praise of God＜SymphonicSuite-Lv.8＞「Solo Leveling OST」Epic Orchestral Cover",
+      "type": "play",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:16:07",
+      "muted": false,
+      "t": 8167232,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "track",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 2.1,
+      "volume": 3
+    },
+    {
+      "at": "2:17:03",
+      "muted": false,
+      "t": 8223587,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "pause",
+      "videoId": "hwtLqJyhS3Q",
+      "videoTime": 58.5,
+      "volume": 3
+    },
+    {
+      "at": "2:17:06",
+      "muted": false,
+      "t": 8226419,
+      "title": "Booba - 92i Veyron (Clip Officiel)",
+      "type": "play",
+      "videoId": "WCxx_OVOVUw",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "2:17:08",
+      "muted": false,
+      "t": 8228234,
+      "title": "Odysseus",
+      "type": "track",
+      "videoId": "WCxx_OVOVUw",
+      "videoTime": 1.7,
+      "volume": 4
+    },
+    {
+      "at": "2:21:18",
+      "muted": false,
+      "t": 8478620,
+      "title": "Odysseus",
+      "type": "volume",
+      "videoId": "WCxx_OVOVUw",
+      "videoTime": 252.1,
+      "volume": 3
+    },
+    {
+      "at": "2:25:48",
+      "muted": false,
+      "t": 8748071,
+      "title": "Odysseus",
+      "type": "pause",
+      "videoId": "WCxx_OVOVUw",
+      "videoTime": 521.5,
+      "volume": 3
+    },
+    {
+      "at": "2:25:48",
+      "muted": false,
+      "t": 8748071,
+      "title": "Odysseus",
+      "type": "ended",
+      "videoId": "WCxx_OVOVUw",
+      "videoTime": 521.5,
+      "volume": 3
+    },
+    {
+      "at": "2:25:48",
+      "muted": false,
+      "t": 8748170,
+      "title": "Odysseus",
+      "type": "play",
+      "videoId": "0F0g8IiXOIA",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:25:50",
+      "muted": false,
+      "t": 8750230,
+      "title": "Cyberpunk 2077 OST - Never Fade Away (The Devil Ending Mix)",
+      "type": "track",
+      "videoId": "0F0g8IiXOIA",
+      "videoTime": 1.9,
+      "volume": 3
+    },
+    {
+      "at": "2:31:43",
+      "muted": false,
+      "t": 9103890,
+      "title": "Cyberpunk 2077 OST - Never Fade Away (The Devil Ending Mix)",
+      "type": "pause",
+      "videoId": "0F0g8IiXOIA",
+      "videoTime": 355.6,
+      "volume": 3
+    },
+    {
+      "at": "2:31:43",
+      "muted": false,
+      "t": 9103891,
+      "title": "Cyberpunk 2077 OST - Never Fade Away (The Devil Ending Mix)",
+      "type": "ended",
+      "videoId": "0F0g8IiXOIA",
+      "videoTime": 355.6,
+      "volume": 3
+    },
+    {
+      "at": "2:31:43",
+      "muted": false,
+      "t": 9103976,
+      "title": "Cyberpunk 2077 OST - Never Fade Away (The Devil Ending Mix)",
+      "type": "play",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:31:46",
+      "muted": false,
+      "t": 9106406,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "track",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 2.3,
+      "volume": 3
+    },
+    {
+      "at": "2:39:55",
+      "muted": false,
+      "t": 9595635,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "pause",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 491.5,
+      "volume": 3
+    },
+    {
+      "at": "2:39:55",
+      "muted": false,
+      "t": 9595635,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "ended",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 491.5,
+      "volume": 3
+    },
+    {
+      "at": "2:39:55",
+      "muted": false,
+      "t": 9595739,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "play",
+      "videoId": "v4a-nh3tCdg",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "2:39:57",
+      "muted": false,
+      "t": 9597257,
+      "title": "Cyberpunk 2077 - New Dawn Fades (V's Memorial Version)",
+      "type": "track",
+      "videoId": "v4a-nh3tCdg",
+      "videoTime": 1.4,
+      "volume": 2
+    },
+    {
+      "at": "2:42:51",
+      "muted": false,
+      "t": 9771100,
+      "title": "Cyberpunk 2077 - New Dawn Fades (V's Memorial Version)",
+      "type": "pause",
+      "videoId": "v4a-nh3tCdg",
+      "videoTime": 175.3,
+      "volume": 2
+    },
+    {
+      "at": "2:42:51",
+      "muted": false,
+      "t": 9771100,
+      "title": "Cyberpunk 2077 - New Dawn Fades (V's Memorial Version)",
+      "type": "ended",
+      "videoId": "v4a-nh3tCdg",
+      "videoTime": 175.3,
+      "volume": 2
+    },
+    {
+      "at": "2:42:51",
+      "muted": false,
+      "t": 9771195,
+      "title": "Cyberpunk 2077 - New Dawn Fades (V's Memorial Version)",
+      "type": "play",
+      "videoId": "09QAON1scMI",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:42:53",
+      "muted": false,
+      "t": 9773231,
+      "title": "Cyberpunk 2077 - Oil Fields (Theme)",
+      "type": "track",
+      "videoId": "09QAON1scMI",
+      "videoTime": 1.9,
+      "volume": 3
+    },
+    {
+      "at": "2:48:42",
+      "muted": false,
+      "t": 10122949,
+      "title": "Cyberpunk 2077 - Oil Fields (Theme)",
+      "type": "pause",
+      "videoId": "09QAON1scMI",
+      "videoTime": 351.6,
+      "volume": 3
+    },
+    {
+      "at": "2:48:42",
+      "muted": false,
+      "t": 10122950,
+      "title": "Cyberpunk 2077 - Oil Fields (Theme)",
+      "type": "ended",
+      "videoId": "09QAON1scMI",
+      "videoTime": 351.6,
+      "volume": 3
+    },
+    {
+      "at": "2:48:43",
+      "muted": false,
+      "t": 10123037,
+      "title": "Cyberpunk 2077 - Oil Fields (Theme)",
+      "type": "play",
+      "videoId": "PKVgLA9AYU0",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:48:45",
+      "muted": false,
+      "t": 10125229,
+      "title": "♫ Outsider No More (Panam's Theme) - Cyberpunk 2077 REMIX by Oller ♫",
+      "type": "track",
+      "videoId": "PKVgLA9AYU0",
+      "videoTime": 2.1,
+      "volume": 3
+    },
+    {
+      "at": "2:52:27",
+      "muted": false,
+      "t": 10347630,
+      "title": "♫ Outsider No More (Panam's Theme) - Cyberpunk 2077 REMIX by Oller ♫",
+      "type": "pause",
+      "videoId": "PKVgLA9AYU0",
+      "videoTime": 224.4,
+      "volume": 3
+    },
+    {
+      "at": "2:52:27",
+      "muted": false,
+      "t": 10347630,
+      "title": "♫ Outsider No More (Panam's Theme) - Cyberpunk 2077 REMIX by Oller ♫",
+      "type": "ended",
+      "videoId": "PKVgLA9AYU0",
+      "videoTime": 224.4,
+      "volume": 3
+    },
+    {
+      "at": "2:52:27",
+      "muted": false,
+      "t": 10347718,
+      "title": "♫ Outsider No More (Panam's Theme) - Cyberpunk 2077 REMIX by Oller ♫",
+      "type": "play",
+      "videoId": "5OOUs7hjU0Q",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:52:29",
+      "muted": false,
+      "t": 10349235,
+      "title": "The Sacred And The Profane",
+      "type": "track",
+      "videoId": "5OOUs7hjU0Q",
+      "videoTime": 1.4,
+      "volume": 3
+    },
+    {
+      "at": "2:57:03",
+      "muted": false,
+      "t": 10623740,
+      "title": "The Sacred And The Profane",
+      "type": "pause",
+      "videoId": "5OOUs7hjU0Q",
+      "videoTime": 275.8,
+      "volume": 3
+    },
+    {
+      "at": "2:57:03",
+      "muted": false,
+      "t": 10623740,
+      "title": "The Sacred And The Profane",
+      "type": "ended",
+      "videoId": "5OOUs7hjU0Q",
+      "videoTime": 275.8,
+      "volume": 3
+    },
+    {
+      "at": "2:57:03",
+      "muted": false,
+      "t": 10623815,
+      "title": "The Sacred And The Profane",
+      "type": "play",
+      "videoId": "CgzV340vqxU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:57:05",
+      "muted": false,
+      "t": 10625334,
+      "title": "\"Nocturne Op55N1\" Ambient Music | Cyberpunk 2077",
+      "type": "track",
+      "videoId": "CgzV340vqxU",
+      "videoTime": 1.4,
+      "volume": 3
+    },
+    {
+      "at": "3:06:39",
+      "muted": false,
+      "t": 11199568,
+      "title": "\"Nocturne Op55N1\" Ambient Music | Cyberpunk 2077",
+      "type": "pause",
+      "videoId": "CgzV340vqxU",
+      "videoTime": 575.5,
+      "volume": 3
+    },
+    {
+      "at": "3:06:39",
+      "muted": false,
+      "t": 11199568,
+      "title": "\"Nocturne Op55N1\" Ambient Music | Cyberpunk 2077",
+      "type": "ended",
+      "videoId": "CgzV340vqxU",
+      "videoTime": 575.5,
+      "volume": 3
+    },
+    {
+      "at": "3:06:39",
+      "muted": false,
+      "t": 11199655,
+      "title": "\"Nocturne Op55N1\" Ambient Music | Cyberpunk 2077",
+      "type": "play",
+      "videoId": "aL9D9gU4Jas",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:06:41",
+      "muted": false,
+      "t": 11201266,
+      "title": "Bells Of Laguna Bend",
+      "type": "track",
+      "videoId": "aL9D9gU4Jas",
+      "videoTime": 1.5,
+      "volume": 3
+    },
+    {
+      "at": "3:11:01",
+      "muted": false,
+      "t": 11461296,
+      "title": "Bells Of Laguna Bend",
+      "type": "pause",
+      "videoId": "aL9D9gU4Jas",
+      "videoTime": 261.4,
+      "volume": 3
+    },
+    {
+      "at": "3:11:01",
+      "muted": false,
+      "t": 11461296,
+      "title": "Bells Of Laguna Bend",
+      "type": "ended",
+      "videoId": "aL9D9gU4Jas",
+      "videoTime": 261.4,
+      "volume": 3
+    },
+    {
+      "at": "3:11:01",
+      "muted": false,
+      "t": 11461407,
+      "title": "Bells Of Laguna Bend",
+      "type": "play",
+      "videoId": "2zGgpEoW6DE",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:11:03",
+      "muted": false,
+      "t": 11463261,
+      "title": "P.T. Adamczyk - Not a Plan, a Man | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "2zGgpEoW6DE",
+      "videoTime": 1.7,
+      "volume": 2
+    },
+    {
+      "at": "3:14:11",
+      "muted": false,
+      "t": 11651970,
+      "title": "P.T. Adamczyk - Not a Plan, a Man | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "2zGgpEoW6DE",
+      "videoTime": 190.4,
+      "volume": 2
+    },
+    {
+      "at": "3:14:11",
+      "muted": false,
+      "t": 11651970,
+      "title": "P.T. Adamczyk - Not a Plan, a Man | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "2zGgpEoW6DE",
+      "videoTime": 190.4,
+      "volume": 2
+    },
+    {
+      "at": "3:14:12",
+      "muted": false,
+      "t": 11652059,
+      "title": "P.T. Adamczyk - Not a Plan, a Man | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "3:14:14",
+      "muted": false,
+      "t": 11654386,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "track",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 2.3,
+      "volume": 2
+    },
+    {
+      "at": "3:22:45",
+      "muted": false,
+      "t": 12165203,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "pause",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 513.1,
+      "volume": 2
+    },
+    {
+      "at": "3:22:45",
+      "muted": false,
+      "t": 12165203,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "ended",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 513.1,
+      "volume": 2
+    },
+    {
+      "at": "3:22:45",
+      "muted": false,
+      "t": 12165309,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "play",
+      "videoId": "DF1ZLLmZwmU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:22:47",
+      "muted": false,
+      "t": 12167262,
+      "title": "Cyberpunk 2077 OST: Love Theme (Rogue Romance)",
+      "type": "track",
+      "videoId": "DF1ZLLmZwmU",
+      "videoTime": 1.9,
+      "volume": 3
+    },
+    {
+      "at": "3:26:04",
+      "muted": false,
+      "t": 12364862,
+      "title": "Cyberpunk 2077 OST: Love Theme (Rogue Romance)",
+      "type": "pause",
+      "videoId": "DF1ZLLmZwmU",
+      "videoTime": 199.5,
+      "volume": 3
+    },
+    {
+      "at": "3:26:04",
+      "muted": false,
+      "t": 12364862,
+      "title": "Cyberpunk 2077 OST: Love Theme (Rogue Romance)",
+      "type": "ended",
+      "videoId": "DF1ZLLmZwmU",
+      "videoTime": 199.5,
+      "volume": 3
+    },
+    {
+      "at": "3:26:04",
+      "muted": false,
+      "t": 12364940,
+      "title": "Cyberpunk 2077 OST: Love Theme (Rogue Romance)",
+      "type": "play",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:26:07",
+      "muted": false,
+      "t": 12367439,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "track",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 2.4,
+      "volume": 3
+    },
+    {
+      "at": "3:26:10",
+      "muted": false,
+      "t": 12370154,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "pause",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 5.1,
+      "volume": 3
+    },
+    {
+      "at": "3:26:10",
+      "muted": false,
+      "t": 12370299,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "play",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 14.3,
+      "volume": 3
+    },
+    {
+      "at": "3:26:10",
+      "muted": false,
+      "t": 12370311,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "seeked",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 14.3,
+      "volume": 3
+    },
+    {
+      "at": "3:26:11",
+      "muted": false,
+      "t": 12371390,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "volume",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 15.4,
+      "volume": 21
+    },
+    {
+      "at": "3:26:23",
+      "muted": false,
+      "t": 12383849,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "volume",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 27.8,
+      "volume": 13
+    },
+    {
+      "at": "3:33:48",
+      "muted": false,
+      "t": 12828080,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "pause",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 472.1,
+      "volume": 13
+    },
+    {
+      "at": "3:33:48",
+      "muted": false,
+      "t": 12828080,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "ended",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 472.1,
+      "volume": 13
+    },
+    {
+      "at": "3:33:48",
+      "muted": false,
+      "t": 12828188,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "play",
+      "videoId": "CsnoKc8PKZU",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "3:33:50",
+      "muted": false,
+      "t": 12830432,
+      "title": "End Credits Music | Cyberpunk 2077",
+      "type": "track",
+      "videoId": "CsnoKc8PKZU",
+      "videoTime": 2.1,
+      "volume": 13
+    },
+    {
+      "at": "3:38:23",
+      "muted": false,
+      "t": 13103865,
+      "title": "End Credits Music | Cyberpunk 2077",
+      "type": "pause",
+      "videoId": "CsnoKc8PKZU",
+      "videoTime": 275.6,
+      "volume": 13
+    },
+    {
+      "at": "3:38:23",
+      "muted": false,
+      "t": 13103865,
+      "title": "End Credits Music | Cyberpunk 2077",
+      "type": "ended",
+      "videoId": "CsnoKc8PKZU",
+      "videoTime": 275.6,
+      "volume": 13
+    },
+    {
+      "at": "3:38:24",
+      "muted": false,
+      "t": 13104003,
+      "title": "End Credits Music | Cyberpunk 2077",
+      "type": "play",
+      "videoId": "uNbph2_rHjQ",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "3:38:26",
+      "muted": false,
+      "t": 13106510,
+      "title": "P.T. Adamczyk - I'm a Netrunner | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "uNbph2_rHjQ",
+      "videoTime": 2.4,
+      "volume": 13
+    },
+    {
+      "at": "3:38:32",
+      "muted": false,
+      "t": 13112988,
+      "title": "P.T. Adamczyk - I'm a Netrunner | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "uNbph2_rHjQ",
+      "videoTime": 8.9,
+      "volume": 13
+    },
+    {
+      "at": "3:38:33",
+      "muted": false,
+      "t": 13113038,
+      "title": "P.T. Adamczyk - I'm a Netrunner | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "uNbph2_rHjQ",
+      "videoTime": 8.9,
+      "volume": 13
+    },
+    {
+      "at": "3:38:33",
+      "muted": false,
+      "t": 13113864,
+      "title": "P.T. Adamczyk - I'm a Netrunner | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "uNbph2_rHjQ",
+      "videoTime": 9.7,
+      "volume": 13
+    },
+    {
+      "at": "3:38:42",
+      "muted": false,
+      "t": 13122043,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "play",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 0,
+      "volume": 13
+    },
+    {
+      "at": "3:38:44",
+      "muted": false,
+      "t": 13124518,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "track",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 2.4,
+      "volume": 13
+    },
+    {
+      "at": "3:38:45",
+      "muted": false,
+      "t": 13125137,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "pause",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 3,
+      "volume": 13
+    },
+    {
+      "at": "3:38:45",
+      "muted": false,
+      "t": 13125246,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "play",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 34.9,
+      "volume": 13
+    },
+    {
+      "at": "3:38:45",
+      "muted": false,
+      "t": 13125319,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "seeked",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 34.9,
+      "volume": 13
+    },
+    {
+      "at": "3:41:07",
+      "muted": false,
+      "t": 13267659,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "volume",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 177.2,
+      "volume": 5
+    },
+    {
+      "at": "3:46:02",
+      "muted": false,
+      "t": 13562757,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "seeked",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 0,
+      "volume": 5
+    },
+    {
+      "at": "3:46:06",
+      "muted": false,
+      "t": 13566780,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "pause",
+      "videoId": "coa9xjOqyeM",
+      "videoTime": 4,
+      "volume": 5
+    },
+    {
+      "at": "3:46:09",
+      "muted": false,
+      "t": 13569294,
+      "title": "Cyberpunk 2077 - Been Good to Know Ya | Alt's Death - Mix",
+      "type": "play",
+      "videoId": "Y2veQiSeD74",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:46:11",
+      "muted": false,
+      "t": 13571545,
+      "title": "Guilty Hero (Extended) | Attack on Titan Season 4",
+      "type": "track",
+      "videoId": "Y2veQiSeD74",
+      "videoTime": 2.1,
+      "volume": 3
+    },
+    {
+      "at": "3:49:44",
+      "muted": false,
+      "t": 13784763,
+      "title": "Guilty Hero (Extended) | Attack on Titan Season 4",
+      "type": "volume",
+      "videoId": "Y2veQiSeD74",
+      "videoTime": 215.3,
+      "volume": 1
+    },
+    {
+      "at": "3:55:55",
+      "muted": false,
+      "t": 14155464,
+      "title": "Guilty Hero (Extended) | Attack on Titan Season 4",
+      "type": "pause",
+      "videoId": "Y2veQiSeD74",
+      "videoTime": 586,
+      "volume": 2
+    },
+    {
+      "at": "3:55:55",
+      "muted": false,
+      "t": 14155464,
+      "title": "Guilty Hero (Extended) | Attack on Titan Season 4",
+      "type": "ended",
+      "videoId": "Y2veQiSeD74",
+      "videoTime": 586,
+      "volume": 2
+    },
+    {
+      "at": "3:55:55",
+      "muted": false,
+      "t": 14155579,
+      "title": "Guilty Hero (Extended) | Attack on Titan Season 4",
+      "type": "play",
+      "videoId": "Zk65UCMPiug",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:55:57",
+      "muted": false,
+      "t": 14157508,
+      "title": "Man of the World",
+      "type": "track",
+      "videoId": "Zk65UCMPiug",
+      "videoTime": 1.8,
+      "volume": 3
+    },
+    {
+      "at": "3:58:51",
+      "muted": false,
+      "t": 14331064,
+      "title": "Man of the World",
+      "type": "pause",
+      "videoId": "Zk65UCMPiug",
+      "videoTime": 175.3,
+      "volume": 3
+    },
+    {
+      "at": "3:58:51",
+      "muted": false,
+      "t": 14331064,
+      "title": "Man of the World",
+      "type": "ended",
+      "videoId": "Zk65UCMPiug",
+      "videoTime": 175.3,
+      "volume": 3
+    },
+    {
+      "at": "3:58:51",
+      "muted": false,
+      "t": 14331144,
+      "title": "Man of the World",
+      "type": "play",
+      "videoId": "lA-qf1fqGiE",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:58:53",
+      "muted": false,
+      "t": 14333593,
+      "title": "Cyberpunk 2077 OST: Johnny's Grave (Silverhand Construct Theme)",
+      "type": "track",
+      "videoId": "lA-qf1fqGiE",
+      "videoTime": 2.4,
+      "volume": 3
+    },
+    {
+      "at": "4:04:38",
+      "muted": false,
+      "t": 14678057,
+      "title": "Cyberpunk 2077 OST: Johnny's Grave (Silverhand Construct Theme)",
+      "type": "pause",
+      "videoId": "lA-qf1fqGiE",
+      "videoTime": 346.8,
+      "volume": 3
+    },
+    {
+      "at": "4:04:38",
+      "muted": false,
+      "t": 14678057,
+      "title": "Cyberpunk 2077 OST: Johnny's Grave (Silverhand Construct Theme)",
+      "type": "ended",
+      "videoId": "lA-qf1fqGiE",
+      "videoTime": 346.8,
+      "volume": 3
+    },
+    {
+      "at": "4:04:38",
+      "muted": false,
+      "t": 14678178,
+      "title": "Cyberpunk 2077 OST: Johnny's Grave (Silverhand Construct Theme)",
+      "type": "play",
+      "videoId": "kDOJkDDQkIg",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "4:04:40",
+      "muted": false,
+      "t": 14680608,
+      "title": "Cyberpunk 2077: Phantom Liberty - The Killing Moon (Theme)",
+      "type": "track",
+      "videoId": "kDOJkDDQkIg",
+      "videoTime": 2.3,
+      "volume": 3
+    },
+    {
+      "at": "4:12:52",
+      "muted": false,
+      "t": 15172383,
+      "title": "Cyberpunk 2077: Phantom Liberty - The Killing Moon (Theme)",
+      "type": "pause",
+      "videoId": "kDOJkDDQkIg",
+      "videoTime": 494,
+      "volume": 3
+    },
+    {
+      "at": "4:12:52",
+      "muted": false,
+      "t": 15172384,
+      "title": "Cyberpunk 2077: Phantom Liberty - The Killing Moon (Theme)",
+      "type": "ended",
+      "videoId": "kDOJkDDQkIg",
+      "videoTime": 494,
+      "volume": 3
+    },
+    {
+      "at": "4:12:52",
+      "muted": false,
+      "t": 15172535,
+      "title": "Cyberpunk 2077: Phantom Liberty - The Killing Moon (Theme)",
+      "type": "play",
+      "videoId": "Oaw_Wy6XDFk",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "4:12:54",
+      "muted": false,
+      "t": 15174508,
+      "title": "Cyberpunk 2077 - The Rebel Path (Silverhand Nukes the Arasaka Building)",
+      "type": "track",
+      "videoId": "Oaw_Wy6XDFk",
+      "videoTime": 1.8,
+      "volume": 3
+    },
+    {
+      "at": "4:15:50",
+      "muted": false,
+      "t": 15350147,
+      "title": "Cyberpunk 2077 - The Rebel Path (Silverhand Nukes the Arasaka Building)",
+      "type": "play",
+      "videoId": "sYFnejelGzk",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "4:15:51",
+      "muted": false,
+      "t": 15351545,
+      "title": "My Hero Academia OST - Might Plus Ultra (Mix) | Yuki Hayashi",
+      "type": "track",
+      "videoId": "sYFnejelGzk",
+      "videoTime": 1.3,
+      "volume": 2
+    },
+    {
+      "at": "4:15:52",
+      "muted": false,
+      "t": 15352018,
+      "title": "My Hero Academia OST - Might Plus Ultra (Mix) | Yuki Hayashi",
+      "type": "volume",
+      "videoId": "sYFnejelGzk",
+      "videoTime": 1.7,
+      "volume": 13
+    },
+    {
+      "at": "4:16:11",
+      "muted": false,
+      "t": 15371968,
+      "title": "My Hero Academia OST - Might Plus Ultra (Mix) | Yuki Hayashi",
+      "type": "volume",
+      "videoId": "sYFnejelGzk",
+      "videoTime": 21.7,
+      "volume": 13
+    },
+    {
+      "at": "4:16:13",
+      "muted": false,
+      "t": 15373100,
+      "title": "My Hero Academia OST - Might Plus Ultra (Mix) | Yuki Hayashi",
+      "type": "volume",
+      "videoId": "sYFnejelGzk",
+      "videoTime": 22.8,
+      "volume": 5
+    },
+    {
+      "at": "4:19:01",
+      "muted": false,
+      "t": 15541177,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "play",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "4:19:01",
+      "muted": false,
+      "t": 15541566,
+      "title": "My Hero Academia OST - Might Plus Ultra (Mix) | Yuki Hayashi",
+      "type": "pause",
+      "videoId": "sYFnejelGzk",
+      "videoTime": 191.3,
+      "volume": 3
+    },
+    {
+      "at": "4:19:03",
+      "muted": false,
+      "t": 15543327,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "volume",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0,
+      "volume": 34
+    },
+    {
+      "at": "4:19:03",
+      "muted": false,
+      "t": 15543769,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "track",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0,
+      "volume": 35
+    },
+    {
+      "at": "4:19:03",
+      "muted": false,
+      "t": 15543979,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "volume",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0,
+      "volume": 34
+    },
+    {
+      "at": "4:19:04",
+      "muted": false,
+      "t": 15544730,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "pause",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0,
+      "volume": 31
+    },
+    {
+      "at": "4:19:05",
+      "muted": false,
+      "t": 15545353,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "play",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0,
+      "volume": 31
+    },
+    {
+      "at": "4:19:06",
+      "muted": false,
+      "t": 15546277,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "pause",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 0.9,
+      "volume": 31
+    },
+    {
+      "at": "4:19:06",
+      "muted": false,
+      "t": 15546439,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "play",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 11,
+      "volume": 31
+    },
+    {
+      "at": "4:19:06",
+      "muted": false,
+      "t": 15546443,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "seeked",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 11,
+      "volume": 31
+    },
+    {
+      "at": "4:19:15",
+      "muted": false,
+      "t": 15555282,
+      "title": "House of the Dragon Soundtrack | The Power of Prophecy - Ramin Djawadi | WaterTower",
+      "type": "play",
+      "videoId": "Iz4pnCrxdRc",
+      "videoTime": 0,
+      "volume": 41
+    },
+    {
+      "at": "4:19:17",
+      "muted": false,
+      "t": 15557612,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "pause",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 22.1,
+      "volume": 31
+    },
+    {
+      "at": "4:19:18",
+      "muted": false,
+      "t": 15558273,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "play",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 22.1,
+      "volume": 31
+    },
+    {
+      "at": "4:19:19",
+      "muted": false,
+      "t": 15559911,
+      "title": "House of the Dragon Soundtrack | The Power of Prophecy - Ramin Djawadi | WaterTower",
+      "type": "track",
+      "videoId": "Iz4pnCrxdRc",
+      "videoTime": 0,
+      "volume": 41
+    },
+    {
+      "at": "4:19:35",
+      "muted": false,
+      "t": 15575052,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "volume",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 38.9,
+      "volume": 24
+    },
+    {
+      "at": "4:19:49",
+      "muted": false,
+      "t": 15589860,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "volume",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 53.7,
+      "volume": 16
+    },
+    {
+      "at": "4:19:50",
+      "muted": false,
+      "t": 15590753,
+      "title": "PRINCE (Les princes de la ville)",
+      "type": "pause",
+      "videoId": "_X79C5lWV_Y",
+      "videoTime": 54.6,
+      "volume": 14
+    },
+    {
+      "at": "4:20:22",
+      "muted": false,
+      "t": 15622949,
+      "title": "House of the Dragon Soundtrack | The Power of Prophecy - Ramin Djawadi | WaterTower",
+      "type": "volume",
+      "videoId": "Iz4pnCrxdRc",
+      "videoTime": 62.4,
+      "volume": 18
+    },
+    {
+      "at": "4:20:27",
+      "muted": false,
+      "t": 15627648,
+      "title": "House of the Dragon Soundtrack | The Power of Prophecy - Ramin Djawadi | WaterTower",
+      "type": "volume",
+      "videoId": "Iz4pnCrxdRc",
+      "videoTime": 67.1,
+      "volume": 11
+    },
+    {
+      "at": "4:20:52",
+      "muted": false,
+      "t": 15652659,
+      "title": "Game of Thrones S8 Official Soundtrack | The Battle of Winterfell - Ramin Djawadi | WaterTower",
+      "type": "play",
+      "videoId": "2lpojrxaxE4",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "4:20:55",
+      "muted": false,
+      "t": 15655187,
+      "title": "Game of Thrones S8 Official Soundtrack | The Battle of Winterfell - Ramin Djawadi | WaterTower",
+      "type": "track",
+      "videoId": "2lpojrxaxE4",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "4:20:56",
+      "muted": false,
+      "t": 15656558,
+      "title": "Game of Thrones S8 Official Soundtrack | The Battle of Winterfell - Ramin Djawadi | WaterTower",
+      "type": "volume",
+      "videoId": "2lpojrxaxE4",
+      "videoTime": 0,
+      "volume": 4
+    },
+    {
+      "at": "4:21:34",
+      "muted": false,
+      "t": 15694391,
+      "title": "Game of Thrones S8 Official Soundtrack | The Battle of Winterfell - Ramin Djawadi | WaterTower",
+      "type": "volume",
+      "videoId": "2lpojrxaxE4",
+      "videoTime": 37.7,
+      "volume": 18
+    },
+    {
+      "at": "4:22:32",
+      "muted": false,
+      "t": 15752085,
+      "title": "Game of Thrones S8 Official Soundtrack | The Battle of Winterfell - Ramin Djawadi | WaterTower",
+      "type": "volume",
+      "videoId": "2lpojrxaxE4",
+      "videoTime": 95.4,
+      "volume": 16
+    },
+    {
+      "at": "4:23:07",
+      "muted": false,
+      "t": 15787196,
+      "title": "Game of Thrones S8 Official Soundtrack | The Battle of Winterfell - Ramin Djawadi | WaterTower",
+      "type": "play",
+      "videoId": "3Q45lWWuc2w",
+      "videoTime": 0,
+      "volume": 6
+    },
+    {
+      "at": "4:23:09",
+      "muted": false,
+      "t": 15789186,
+      "title": "BORUTO OST - KARA THEME (VESSEL)",
+      "type": "track",
+      "videoId": "3Q45lWWuc2w",
+      "videoTime": 0,
+      "volume": 6
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "format": "ost-recorder/1",
+  "channel": "mehditdonc",
+  "episode": 77,
+  "streamTitle": "Coucou vous Cv ? | ÉPISODE 77 ZENKAI RP",
+  "streamStartedAt": "2026-11-20T20:51:06.897Z",
+  "exportedAt": "2026-11-21T02:11:16.549Z",
+  "events": [
+    {
+      "at": "0:02:36",
+      "muted": false,
+      "t": 156295,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 93.1,
+      "volume": 8
+    },
+    {
+      "at": "0:02:37",
+      "muted": false,
+      "t": 157677,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 94.4,
+      "volume": 3
+    },
+    {
+      "at": "0:04:32",
+      "muted": false,
+      "t": 272338,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 207,
+      "volume": 1
+    },
+    {
+      "at": "0:04:33",
+      "muted": true,
+      "t": 273488,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "volume",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 208.1,
+      "volume": 3
+    },
+    {
+      "at": "0:04:53",
+      "muted": true,
+      "t": 293814,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 228.4,
+      "volume": 3
+    },
+    {
+      "at": "0:04:53",
+      "muted": true,
+      "t": 293814,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "a9dNpk9G5h0",
+      "videoTime": 228.4,
+      "volume": 3
+    },
+    {
+      "at": "0:04:54",
+      "muted": true,
+      "t": 294017,
+      "title": "P.T. Adamczyk - Never Looking Back | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:04:56",
+      "muted": true,
+      "t": 296381,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 2.3,
+      "volume": 3
+    },
+    {
+      "at": "0:09:17",
+      "muted": true,
+      "t": 557247,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 255.1,
+      "volume": 3
+    },
+    {
+      "at": "0:09:17",
+      "muted": true,
+      "t": 557247,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "48_aXtjMxyg",
+      "videoTime": 255.1,
+      "volume": 3
+    },
+    {
+      "at": "0:09:17",
+      "muted": true,
+      "t": 557453,
+      "title": "P.T. Adamczyk - Just Another Weapon | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:09:20",
+      "muted": true,
+      "t": 560522,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "track",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 2.9,
+      "volume": 3
+    },
+    {
+      "at": "0:13:42",
+      "muted": true,
+      "t": 822862,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "pause",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 3
+    },
+    {
+      "at": "0:13:42",
+      "muted": true,
+      "t": 822862,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "ended",
+      "videoId": "TbXLFwv3NRU",
+      "videoTime": 264.6,
+      "volume": 3
+    },
+    {
+      "at": "0:13:43",
+      "muted": true,
+      "t": 823096,
+      "title": "Attack On Titan: Levi's Pain - Piano Cover ( Omake-Pfadlib )",
+      "type": "play",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:13:45",
+      "muted": true,
+      "t": 825540,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "track",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 2.3,
+      "volume": 2
+    },
+    {
+      "at": "0:16:43",
+      "muted": true,
+      "t": 1003247,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "pause",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 2
+    },
+    {
+      "at": "0:16:43",
+      "muted": true,
+      "t": 1003247,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "ended",
+      "videoId": "25ugC5NqV6U",
+      "videoTime": 179.6,
+      "volume": 2
+    },
+    {
+      "at": "0:16:43",
+      "muted": true,
+      "t": 1003463,
+      "title": "P.T. Adamczyk - Test of Loyalty | Cyberpunk 2077: Phantom Liberty (Original Score)",
+      "type": "play",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:16:53",
+      "muted": true,
+      "t": 1013929,
+      "title": "10 12 14 bureau",
+      "type": "track",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 10.3,
+      "volume": 2
+    },
+    {
+      "at": "0:20:08",
+      "muted": true,
+      "t": 1208147,
+      "title": "10 12 14 bureau",
+      "type": "pause",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 204.1,
+      "volume": 2
+    },
+    {
+      "at": "0:20:08",
+      "muted": true,
+      "t": 1208148,
+      "title": "10 12 14 bureau",
+      "type": "ended",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 204.1,
+      "volume": 2
+    },
+    {
+      "at": "0:20:08",
+      "muted": true,
+      "t": 1208259,
+      "title": "10 12 14 bureau",
+      "type": "play",
+      "videoId": "ZvD8QSO7NPw",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:20:11",
+      "muted": true,
+      "t": 1211188,
+      "title": "Collapse - Myuu",
+      "type": "track",
+      "videoId": "ZvD8QSO7NPw",
+      "videoTime": 2.8,
+      "volume": 3
+    },
+    {
+      "at": "0:23:27",
+      "muted": true,
+      "t": 1407767,
+      "title": "Collapse - Myuu",
+      "type": "pause",
+      "videoId": "ZvD8QSO7NPw",
+      "videoTime": 199.1,
+      "volume": 3
+    },
+    {
+      "at": "0:23:27",
+      "muted": true,
+      "t": 1407767,
+      "title": "Collapse - Myuu",
+      "type": "ended",
+      "videoId": "ZvD8QSO7NPw",
+      "videoTime": 199.1,
+      "volume": 3
+    },
+    {
+      "at": "0:23:27",
+      "muted": true,
+      "t": 1407875,
+      "title": "Collapse - Myuu",
+      "type": "play",
+      "videoId": "PWrYfezIBFc",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "0:23:30",
+      "muted": true,
+      "t": 1410434,
+      "title": "Attack on Titan OST Mix - Warriors (Attack on D + Apple Seed + YouSeeBIGGIRL) - Hiroyuki Sawano",
+      "type": "track",
+      "videoId": "PWrYfezIBFc",
+      "videoTime": 2.5,
+      "volume": 1
+    },
+    {
+      "at": "0:32:36",
+      "muted": true,
+      "t": 1956575,
+      "title": "Attack on Titan OST Mix - Warriors (Attack on D + Apple Seed + YouSeeBIGGIRL) - Hiroyuki Sawano",
+      "type": "pause",
+      "videoId": "PWrYfezIBFc",
+      "videoTime": 548.5,
+      "volume": 1
+    },
+    {
+      "at": "0:32:36",
+      "muted": true,
+      "t": 1956575,
+      "title": "Attack on Titan OST Mix - Warriors (Attack on D + Apple Seed + YouSeeBIGGIRL) - Hiroyuki Sawano",
+      "type": "ended",
+      "videoId": "PWrYfezIBFc",
+      "videoTime": 548.5,
+      "volume": 1
+    },
+    {
+      "at": "0:32:36",
+      "muted": true,
+      "t": 1956713,
+      "title": "Attack on Titan OST Mix - Warriors (Attack on D + Apple Seed + YouSeeBIGGIRL) - Hiroyuki Sawano",
+      "type": "play",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:32:39",
+      "muted": true,
+      "t": 1959319,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "track",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 2.5,
+      "volume": 3
+    },
+    {
+      "at": "0:36:27",
+      "muted": true,
+      "t": 2187810,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "pause",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 230.9,
+      "volume": 3
+    },
+    {
+      "at": "0:36:28",
+      "muted": false,
+      "t": 2188857,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "volume",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 230.9,
+      "volume": 5
+    },
+    {
+      "at": "0:36:29",
+      "muted": false,
+      "t": 2189725,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "seeked",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 3.4,
+      "volume": 5
+    },
+    {
+      "at": "0:36:30",
+      "muted": false,
+      "t": 2190043,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "play",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 3.4,
+      "volume": 5
+    },
+    {
+      "at": "0:36:40",
+      "muted": false,
+      "t": 2200559,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "volume",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 13.8,
+      "volume": 11
+    },
+    {
+      "at": "0:44:38",
+      "muted": false,
+      "t": 2678196,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "pause",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 491.5,
+      "volume": 3
+    },
+    {
+      "at": "0:44:38",
+      "muted": false,
+      "t": 2678197,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "ended",
+      "videoId": "l2BbttZJCpc",
+      "videoTime": 491.5,
+      "volume": 3
+    },
+    {
+      "at": "0:44:38",
+      "muted": false,
+      "t": 2678337,
+      "title": "Cyberpunk 2077 - Outsider No More (Extended soundtrack version)",
+      "type": "play",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 0,
+      "volume": 1
+    },
+    {
+      "at": "0:44:40",
+      "muted": false,
+      "t": 2680519,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "track",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 2,
+      "volume": 1
+    },
+    {
+      "at": "0:48:42",
+      "muted": false,
+      "t": 2922317,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "pause",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 243.6,
+      "volume": 1
+    },
+    {
+      "at": "0:48:42",
+      "muted": false,
+      "t": 2922317,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "ended",
+      "videoId": "KAe3CHA4vU8",
+      "videoTime": 243.6,
+      "volume": 1
+    },
+    {
+      "at": "0:48:42",
+      "muted": false,
+      "t": 2922438,
+      "title": "Attack on Titan: Before Lights Out (Erwin Charge Theme) | EPIC VERSION",
+      "type": "play",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:48:44",
+      "muted": false,
+      "t": 2924518,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "track",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 2,
+      "volume": 2
+    },
+    {
+      "at": "0:51:29",
+      "muted": false,
+      "t": 3089072,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "pause",
+      "videoId": "liC-Mus0nUo",
+      "videoTime": 166.5,
+      "volume": 2
+    },
+    {
+      "at": "0:51:40",
+      "muted": false,
+      "t": 3100068,
+      "title": "Cyberpunk 2077 - End Credits - Extended w/ Harmonics & Rain",
+      "type": "play",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "0:51:41",
+      "muted": false,
+      "t": 3101574,
+      "title": "10 12 14 bureau",
+      "type": "track",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 1.4,
+      "volume": 2
+    },
+    {
+      "at": "0:55:04",
+      "muted": false,
+      "t": 3304466,
+      "title": "10 12 14 bureau",
+      "type": "pause",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 204.1,
+      "volume": 2
+    },
+    {
+      "at": "0:55:04",
+      "muted": false,
+      "t": 3304466,
+      "title": "10 12 14 bureau",
+      "type": "ended",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 204.1,
+      "volume": 2
+    },
+    {
+      "at": "1:02:35",
+      "muted": false,
+      "t": 3755048,
+      "title": "10 12 14 bureau",
+      "type": "seeked",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:02:35",
+      "muted": false,
+      "t": 3755048,
+      "title": "10 12 14 bureau",
+      "type": "play",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:05:59",
+      "muted": false,
+      "t": 3959358,
+      "title": "10 12 14 bureau",
+      "type": "pause",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 204.1,
+      "volume": 2
+    },
+    {
+      "at": "1:05:59",
+      "muted": false,
+      "t": 3959358,
+      "title": "10 12 14 bureau",
+      "type": "ended",
+      "videoId": "CJDbTaHw25o",
+      "videoTime": 204.1,
+      "volume": 2
+    },
+    {
+      "at": "1:07:21",
+      "muted": false,
+      "t": 4041370,
+      "title": "10 12 14 bureau",
+      "type": "play",
+      "videoId": "xllEeQgK_kA",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:07:22",
+      "muted": false,
+      "t": 4042723,
+      "title": "Gradur - Sheguey 8 - Dani Alves",
+      "type": "track",
+      "videoId": "xllEeQgK_kA",
+      "videoTime": 1.2,
+      "volume": 2
+    },
+    {
+      "at": "1:10:22",
+      "muted": false,
+      "t": 4222811,
+      "title": "Gradur - Sheguey 8 - Dani Alves",
+      "type": "pause",
+      "videoId": "xllEeQgK_kA",
+      "videoTime": 181.3,
+      "volume": 2
+    },
+    {
+      "at": "1:18:25",
+      "muted": false,
+      "t": 4705683,
+      "title": "Gradur - Sheguey 8 - Dani Alves",
+      "type": "play",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 0,
+      "volume": 2
+    },
+    {
+      "at": "1:18:27",
+      "muted": false,
+      "t": 4707668,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "track",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 1.9,
+      "volume": 2
+    },
+    {
+      "at": "1:22:35",
+      "muted": false,
+      "t": 4955661,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "pause",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 249.9,
+      "volume": 2
+    },
+    {
+      "at": "1:22:35",
+      "muted": false,
+      "t": 4955661,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "ended",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 249.9,
+      "volume": 2
+    },
+    {
+      "at": "4:58:51",
+      "muted": true,
+      "t": 17931952,
+      "title": "YouTube",
+      "type": "play",
+      "videoId": "",
+      "videoTime": 0.1,
+      "volume": 100
+    },
+    {
+      "at": "4:59:01",
+      "muted": false,
+      "t": 17941955,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "play",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 1,
+      "volume": 2
+    },
+    {
+      "at": "4:59:02",
+      "muted": true,
+      "t": 17942459,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "track",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 0,
+      "volume": 100
+    },
+    {
+      "at": "5:00:08",
+      "muted": false,
+      "t": 18008159,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "volume",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 67.2,
+      "volume": 23
+    },
+    {
+      "at": "5:03:10",
+      "muted": false,
+      "t": 18190895,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "pause",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 249.9,
+      "volume": 18
+    },
+    {
+      "at": "5:03:10",
+      "muted": false,
+      "t": 18190896,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "ended",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 249.9,
+      "volume": 18
+    },
+    {
+      "at": "5:13:07",
+      "muted": false,
+      "t": 18787436,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "seeked",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 0,
+      "volume": 18
+    },
+    {
+      "at": "5:13:07",
+      "muted": false,
+      "t": 18787436,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "play",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 0,
+      "volume": 18
+    },
+    {
+      "at": "5:13:07",
+      "muted": false,
+      "t": 18787756,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "volume",
+      "videoId": "-jm-OujiGYk",
+      "videoTime": 0.3,
+      "volume": 23
+    },
+    {
+      "at": "5:18:15",
+      "muted": true,
+      "t": 19095535,
+      "title": "YouTube",
+      "type": "play",
+      "videoId": "",
+      "videoTime": 0.3,
+      "volume": 100
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "format": "ost-recorder/1",
+  "channel": "mehditdonc",
+  "episode": 79,
+  "streamTitle": "THE HATED ONE : l'homme le plus détesté | ÉPISODE 79 ZENKAI RP",
+  "streamStartedAt": "2026-11-22T21:27:37.106Z",
+  "exportedAt": "2026-11-23T02:06:09.637Z",
+  "events": [
+    {
+      "at": "0:03:16",
+      "muted": false,
+      "t": 196054,
+      "title": "Sexion d'Assaut - Balader (Clip officiel)",
+      "type": "play",
+      "videoId": "NO8ExekHgmk",
+      "videoTime": 0,
+      "volume": 56
+    },
+    {
+      "at": "0:03:18",
+      "muted": false,
+      "t": 198096,
+      "title": "Ninho - Binks To Binks Part. 2 (Freestyle)",
+      "type": "track",
+      "videoId": "NO8ExekHgmk",
+      "videoTime": 1.9,
+      "volume": 56
+    },
+    {
+      "at": "0:04:20",
+      "muted": false,
+      "t": 260648,
+      "title": "Ninho - Binks To Binks Part. 2 (Freestyle)",
+      "type": "volume",
+      "videoId": "NO8ExekHgmk",
+      "videoTime": 64,
+      "volume": 13
+    },
+    {
+      "at": "0:04:30",
+      "muted": false,
+      "t": 270343,
+      "title": "Ninho - Binks To Binks Part. 2 (Freestyle)",
+      "type": "volume",
+      "videoId": "NO8ExekHgmk",
+      "videoTime": 73.7,
+      "volume": 11
+    },
+    {
+      "at": "0:05:02",
+      "muted": false,
+      "t": 302355,
+      "title": "Ninho - Binks To Binks Part. 2 (Freestyle)",
+      "type": "pause",
+      "videoId": "NO8ExekHgmk",
+      "videoTime": 105.7,
+      "volume": 6
+    },
+    {
+      "at": "0:05:08",
+      "muted": false,
+      "t": 308504,
+      "title": "Ninho - Binks To Binks Part. 2 (Freestyle)",
+      "type": "play",
+      "videoId": "kfFhDiSUW9I",
+      "videoTime": 0,
+      "volume": 11
+    },
+    {
+      "at": "0:05:10",
+      "muted": false,
+      "t": 310811,
+      "title": "Frost Along the Highland Trail | Wind & Celtic Music for Deep Focus 【2 Hours】",
+      "type": "track",
+      "videoId": "kfFhDiSUW9I",
+      "videoTime": 2.1,
+      "volume": 11
+    },
+    {
+      "at": "0:06:23",
+      "muted": false,
+      "t": 383708,
+      "title": "Frost Along the Highland Trail | Wind & Celtic Music for Deep Focus 【2 Hours】",
+      "type": "volume",
+      "videoId": "kfFhDiSUW9I",
+      "videoTime": 74.9,
+      "volume": 9
+    },
+    {
+      "at": "0:08:43",
+      "muted": false,
+      "t": 523308,
+      "title": "Frost Along the Highland Trail | Wind & Celtic Music for Deep Focus 【2 Hours】",
+      "type": "volume",
+      "videoId": "kfFhDiSUW9I",
+      "videoTime": 214.5,
+      "volume": 3
+    },
+    {
+      "at": "0:28:02",
+      "muted": false,
+      "t": 1682444,
+      "title": "Frost Along the Highland Trail | Wind & Celtic Music for Deep Focus 【2 Hours】",
+      "type": "play",
+      "videoId": "OYlzcXA3LxI",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "0:28:02",
+      "muted": false,
+      "t": 1682558,
+      "title": "Frost Along the Highland Trail | Wind & Celtic Music for Deep Focus 【2 Hours】",
+      "type": "seeked",
+      "videoId": "OYlzcXA3LxI",
+      "videoTime": 514,
+      "volume": 3
+    },
+    {
+      "at": "0:28:03",
+      "muted": false,
+      "t": 1683981,
+      "title": "Game of Thrones Music & North Ambience | Winterfell - House Stark Theme",
+      "type": "track",
+      "videoId": "OYlzcXA3LxI",
+      "videoTime": 515.4,
+      "volume": 3
+    },
+    {
+      "at": "1:19:28",
+      "muted": false,
+      "t": 4768570,
+      "title": "Game of Thrones Music & North Ambience | Winterfell - House Stark Theme",
+      "type": "pause",
+      "videoId": "OYlzcXA3LxI",
+      "videoTime": 3600,
+      "volume": 3
+    },
+    {
+      "at": "1:19:28",
+      "muted": false,
+      "t": 4768570,
+      "title": "Game of Thrones Music & North Ambience | Winterfell - House Stark Theme",
+      "type": "ended",
+      "videoId": "OYlzcXA3LxI",
+      "videoTime": 3600,
+      "volume": 3
+    },
+    {
+      "at": "2:17:35",
+      "muted": false,
+      "t": 8255380,
+      "title": "Game of Thrones Music & North Ambience | Winterfell - House Stark Theme",
+      "type": "play",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:17:35",
+      "muted": false,
+      "t": 8255549,
+      "title": "Game of Thrones Music & North Ambience | Winterfell - House Stark Theme",
+      "type": "seeked",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 2814,
+      "volume": 3
+    },
+    {
+      "at": "2:17:37",
+      "muted": false,
+      "t": 8257016,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "track",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 2815.4,
+      "volume": 3
+    },
+    {
+      "at": "2:22:26",
+      "muted": false,
+      "t": 8546157,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "pause",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 3104.5,
+      "volume": 3
+    },
+    {
+      "at": "2:22:26",
+      "muted": false,
+      "t": 8546157,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "ended",
+      "videoId": "EOK6_cX35QM",
+      "videoTime": 3104.5,
+      "volume": 3
+    },
+    {
+      "at": "2:22:45",
+      "muted": false,
+      "t": 8565649,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "play",
+      "videoId": "8rMBnhiP8ZU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:22:45",
+      "muted": false,
+      "t": 8565774,
+      "title": "Interstellar - Main Theme (Slowed to oblivion)",
+      "type": "seeked",
+      "videoId": "8rMBnhiP8ZU",
+      "videoTime": 911,
+      "volume": 3
+    },
+    {
+      "at": "2:22:47",
+      "muted": false,
+      "t": 8567094,
+      "title": "The Odyssey Main Theme - Extra Extended - Soundtrack by Ludwig Goransson",
+      "type": "track",
+      "videoId": "8rMBnhiP8ZU",
+      "videoTime": 912.3,
+      "volume": 3
+    },
+    {
+      "at": "2:34:53",
+      "muted": false,
+      "t": 9293417,
+      "title": "The Odyssey Main Theme - Extra Extended - Soundtrack by Ludwig Goransson",
+      "type": "pause",
+      "videoId": "8rMBnhiP8ZU",
+      "videoTime": 1638.6,
+      "volume": 3
+    },
+    {
+      "at": "2:34:54",
+      "muted": false,
+      "t": 9294482,
+      "title": "The Odyssey Main Theme - Extra Extended - Soundtrack by Ludwig Goransson",
+      "type": "play",
+      "videoId": "lTd5G8Uhz_8",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "2:34:55",
+      "muted": false,
+      "t": 9295738,
+      "title": "In The Pool - In The Sea - Chainsaw Man (slowed + rain)",
+      "type": "pause",
+      "videoId": "lTd5G8Uhz_8",
+      "videoTime": 1.1,
+      "volume": 3
+    },
+    {
+      "at": "2:34:56",
+      "muted": false,
+      "t": 9296083,
+      "title": "In The Pool - In The Sea - Chainsaw Man (slowed + rain)",
+      "type": "track",
+      "videoId": "lTd5G8Uhz_8",
+      "videoTime": 1.1,
+      "volume": 3
+    },
+    {
+      "at": "3:19:23",
+      "muted": false,
+      "t": 11963551,
+      "title": "In The Pool - In The Sea - Chainsaw Man (slowed + rain)",
+      "type": "play",
+      "videoId": "bQ3Aj05PnYc",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:19:23",
+      "muted": false,
+      "t": 11963787,
+      "title": "In The Pool - In The Sea - Chainsaw Man (slowed + rain)",
+      "type": "seeked",
+      "videoId": "bQ3Aj05PnYc",
+      "videoTime": 1163,
+      "volume": 3
+    },
+    {
+      "at": "3:19:26",
+      "muted": false,
+      "t": 11966091,
+      "title": "Oogway Ascends for a hour [Rain]",
+      "type": "track",
+      "videoId": "bQ3Aj05PnYc",
+      "videoTime": 1165.3,
+      "volume": 3
+    },
+    {
+      "at": "3:57:52",
+      "muted": false,
+      "t": 14272967,
+      "title": "Oogway Ascends for a hour [Rain]",
+      "type": "play",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:57:53",
+      "muted": false,
+      "t": 14273103,
+      "title": "Oogway Ascends for a hour [Rain]",
+      "type": "seeked",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2558,
+      "volume": 3
+    },
+    {
+      "at": "3:57:55",
+      "muted": false,
+      "t": 14275306,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "track",
+      "videoId": "Shnvh1ivAIU",
+      "videoTime": 2560.2,
+      "volume": 3
+    },
+    {
+      "at": "3:58:17",
+      "muted": false,
+      "t": 14297637,
+      "title": "Violet Evergarden Ost - Never Coming Back (1 hour Extended)",
+      "type": "play",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 0,
+      "volume": 3
+    },
+    {
+      "at": "3:58:19",
+      "muted": false,
+      "t": 14299287,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "track",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1.5,
+      "volume": 3
+    },
+    {
+      "at": "4:16:31",
+      "muted": false,
+      "t": 15391994,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "pause",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 3
+    },
+    {
+      "at": "4:16:31",
+      "muted": false,
+      "t": 15391995,
+      "title": "The Curse - Indra & Ashura Suite (Naruto OST Compilation)",
+      "type": "ended",
+      "videoId": "dr_qHUGAcAU",
+      "videoTime": 1094.2,
+      "volume": 3
+    }
+  ]
+}
